@@ -169,7 +169,6 @@
 - [intranda/goobi-workflow](https://github.com/intranda/goobi-workflow) - Goobi workflow - Workflow management software for digitisation projects used in more than 80 cultural heritage institutions in at least 18 countries.
 - [intranda/goobi-viewer-core](https://github.com/intranda/goobi-viewer-core) - Goobi viewer - Presentation software for digital libraries, museums, archives and galleries. Open Source.
 - [intranda/goobi-viewer-indexer](https://github.com/intranda/goobi-viewer-indexer) - Goobi viewer - Indexer daemon to monitor hotfolder, add metadata to Apache Solr index and move files to correct folders.
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [digital-preservation/droid](https://github.com/digital-preservation/droid) - DROID (Digital Record and Object Identification)
 - [vivo-project/VIVO](https://github.com/vivo-project/VIVO) - VIVO is an extensible semantic web application for research discovery and showcasing scholarly work
 - [fcrepo/fcrepo](https://github.com/fcrepo/fcrepo) - Fedora Repository
@@ -216,7 +215,7 @@
 - [pro4bib/pica](https://github.com/pro4bib/pica) - Einführung in die Verarbeitung von PICA-Daten
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
-- [sparna-git/Sparnatural](https://github.com/sparna-git/Sparnatural) - Sparnatural : visual SPARQL query builder for knowledge graphs in the browser, configurable with SHACL
+- [sparna-git/Sparnatural](https://github.com/sparna-git/Sparnatural) - Sparnatural : visual knowledge graph explorer with SPARQL, in the browser, configurable with SHACL
 - [LeaVerou/awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 - [gbv/pica-data-js](https://github.com/gbv/pica-data-js) - EcmaScript utilities to process PICA data
 - [Zeichen32/PiwikCustomOptOut](https://github.com/Zeichen32/PiwikCustomOptOut) - Create your own piwik opt-out iframe css styles
@@ -304,7 +303,7 @@
 - [pamelafox/lscache](https://github.com/pamelafox/lscache) - A localStorage-based memcache-inspired client-side caching library.
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
 - [Mottie/Keyboard](https://github.com/Mottie/Keyboard) - Virtual Keyboard using jQuery ~
-- [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
+- [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
 
 ## Less 
 
