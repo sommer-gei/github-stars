@@ -148,6 +148,7 @@
 
 ## Java 
 
+- [metafacture/metafacture-core](https://github.com/metafacture/metafacture-core) - Core package of the Metafacture tool suite for metadata processing.
 - [veraPDF/veraPDF-library](https://github.com/veraPDF/veraPDF-library) - Industry supported, open source PDF/A validation library
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [urlaubsverwaltung/urlaubsverwaltung](https://github.com/urlaubsverwaltung/urlaubsverwaltung) - Schluss mit Papierchaos und langweiliger Software. Wir zeigen dir, dass Urlaubsverwaltung auch Spaß machen kann.
