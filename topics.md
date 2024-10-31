@@ -810,6 +810,7 @@
 
 ## others 
 
+- [metafacture/metafacture-core](https://github.com/metafacture/metafacture-core) - Core package of the Metafacture tool suite for metadata processing.
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
 - [inveniosoftware/invenio-vocabularies](https://github.com/inveniosoftware/invenio-vocabularies) - Invenio module for managing vocabularies.
 - [niklasl/ldtr](https://github.com/niklasl/ldtr) - Linked Data Transcriber
@@ -1208,6 +1209,7 @@
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin.
+- [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
 
 ## react-native 
 
