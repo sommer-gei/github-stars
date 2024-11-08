@@ -94,6 +94,7 @@
 
 ## HTML 
 
+- [rottingresearch/rottingresearch](https://github.com/rottingresearch/rottingresearch) - A project devoted to helping academics and researchers provide robust citations and mitigate link rot.
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [dini-ag-kim/stoeberspecs](https://github.com/dini-ag-kim/stoeberspecs) - Werkzeuge und Verfahren zur Standardisierung von OER-Metadaten
 - [dini-ag-kim/modell_lehrplaene](https://github.com/dini-ag-kim/modell_lehrplaene) - 
