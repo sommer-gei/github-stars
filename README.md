@@ -397,7 +397,7 @@
 - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
 - [Dr-Eberle-Zentrum/dbWebGen](https://github.com/Dr-Eberle-Zentrum/dbWebGen) - Database Web Forms Generator
 - [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
-- [mitoteam/jpgraph](https://github.com/mitoteam/jpgraph) - JpGraph library composer package with PHP 8.3 support
+- [mitoteam/jpgraph](https://github.com/mitoteam/jpgraph) - JpGraph library composer package with PHP 8.4 support
 - [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files
 - [Galbar/JsonPath-PHP](https://github.com/Galbar/JsonPath-PHP) - A JsonPath implementation in PHP
 - [SleekDB/SleekDB](https://github.com/SleekDB/SleekDB) - Pure PHP NoSQL database with no dependency. Flat file, JSON based document database.
@@ -603,7 +603,7 @@
 - [magic-akari/seamless-scroll-polyfill](https://github.com/magic-akari/seamless-scroll-polyfill) - Scroll Behavior polyfill
 - [portive/wysimark](https://github.com/portive/wysimark) - The Wysiwyg Editor for Markdown: 100% CommonMark + GFM with Uploads and Image Resizing
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
-- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1500+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
+- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
 - [rhizomik/rhizomerEye](https://github.com/rhizomik/rhizomerEye) - Client part of the new version of the Rhizomer faceted browser and visualization tool for semantic linked data.
 - [YizYah/neo-forgery](https://github.com/YizYah/neo-forgery) - 
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
