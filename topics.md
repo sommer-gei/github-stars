@@ -25,6 +25,7 @@
 - [cli](#cli)
 - [config](#config)
 - [cryptography](#cryptography)
+- [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [data](#data)
@@ -113,6 +114,7 @@
 - [sass](#sass)
 - [security](#security)
 - [self-hosted](#self-hosted)
+- [server](#server)
 - [shell](#shell)
 - [software](#software)
 - [spring-boot](#spring-boot)
@@ -270,6 +272,10 @@
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 
+## csharp 
+
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
+
 ## css 
 
 - [LeaVerou/parsel](https://github.com/LeaVerou/parsel) - A tiny, permissive CSS selector parser
@@ -368,6 +374,7 @@
 
 ## docker 
 
+- [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
 - [programmfabrik/fylr-install](https://github.com/programmfabrik/fylr-install) - This repository contains different installation methods for the fylr.
 - [elabftw/elabftw](https://github.com/elabftw/elabftw) - :notebook: eLabFTW is the most popular open source electronic lab notebook for research labs.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
@@ -474,6 +481,7 @@
 
 ## golang 
 
+- [thoas/picfit](https://github.com/thoas/picfit) - An image resizing server written in Go
 - [sibprogrammer/xq](https://github.com/sibprogrammer/xq) - Command-line XML and HTML beautifier and content extractor
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
 - [owenthereal/jqplay](https://github.com/owenthereal/jqplay) - A playground for jq, written in Go
@@ -582,6 +590,8 @@
 
 ## image-processing 
 
+- [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
+- [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 
 ## ios 
@@ -599,6 +609,7 @@
 
 ## javascript 
 
+- [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
 - [geolba/gba-thesaurus](https://github.com/geolba/gba-thesaurus) - A web frontend for GBA Thesaurus - a controlled vocabulary for geosciences. ..bilingual in german and english as used in geoscientific text publications and geological maps of the Geological Survey of
@@ -1263,6 +1274,10 @@
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
+
+## server 
+
+- [thoas/picfit](https://github.com/thoas/picfit) - An image resizing server written in Go
 
 ## shell 
 
