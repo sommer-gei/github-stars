@@ -608,6 +608,7 @@
 
 ## TypeScript 
 
+- [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [LeaVerou/parsel](https://github.com/LeaVerou/parsel) - A tiny, permissive CSS selector parser
 - [mdevils/css-selector-parser](https://github.com/mdevils/css-selector-parser) - Just a CSS selector parser.
 - [magic-akari/seamless-scroll-polyfill](https://github.com/magic-akari/seamless-scroll-polyfill) - Scroll Behavior polyfill
