@@ -179,6 +179,7 @@
 - [intranda/goobi-workflow](https://github.com/intranda/goobi-workflow) - Goobi workflow - Workflow management software for digitisation projects used in more than 80 cultural heritage institutions in at least 18 countries.
 - [intranda/goobi-viewer-core](https://github.com/intranda/goobi-viewer-core) - Goobi viewer - Presentation software for digital libraries, museums, archives and galleries. Open Source.
 - [intranda/goobi-viewer-indexer](https://github.com/intranda/goobi-viewer-indexer) - Goobi viewer - Indexer daemon to monitor hotfolder, add metadata to Apache Solr index and move files to correct folders.
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [digital-preservation/droid](https://github.com/digital-preservation/droid) - DROID (Digital Record and Object Identification)
 - [vivo-project/VIVO](https://github.com/vivo-project/VIVO) - VIVO is an extensible semantic web application for research discovery and showcasing scholarly work
 - [fcrepo/fcrepo](https://github.com/fcrepo/fcrepo) - Fedora Repository
