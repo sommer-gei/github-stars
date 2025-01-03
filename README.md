@@ -259,7 +259,7 @@
 - [argob/poncho](https://github.com/argob/poncho) - Framework front-end HTML y CSS para la creación de sitios pertenecientes a la Administración Pública Nacional de la República Argentina - Basado en Bootstrap
 - [mkoryak/floatThead](https://github.com/mkoryak/floatThead) - Fixed &lt;thead&gt;. Doesn't need any custom css/html. Does what position:sticky can't
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
-- [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
+- [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript Data Grid with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [NeXTs/Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
@@ -332,7 +332,7 @@
 
 ## Nix 
 
-- [davegallant/homelab](https://github.com/davegallant/homelab) - configuration for varous self-hosted services
+- [davegallant/homelab](https://github.com/davegallant/homelab) - configuration for self-hosted services
 
 ## Nunjucks 
 
