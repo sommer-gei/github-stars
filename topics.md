@@ -839,7 +839,7 @@
 - [mdevils/css-selector-parser](https://github.com/mdevils/css-selector-parser) - Just a CSS selector parser.
 - [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
 - [ulbmuenster/dataasee](https://github.com/ulbmuenster/dataasee) - DatAasee - A Metadata-Lake for Libraries
-- [davegallant/homelab](https://github.com/davegallant/homelab) - configuration for varous self-hosted services
+- [davegallant/homelab](https://github.com/davegallant/homelab) - configuration for self-hosted services
 - [ArchiveTeam/terroroftinytown](https://github.com/ArchiveTeam/terroroftinytown) - URLTeam's second generation of URL shortener archiving tools
 - [gbv/beaconspec](https://github.com/gbv/beaconspec) - BEACON link dump format specification
 - [sweetrdf/easyrdf](https://github.com/sweetrdf/easyrdf) - Maintained EasyRdf fork: a PHP library designed to make it easy to consume and produce RDF.
@@ -976,7 +976,7 @@
 - [web-token/jwt-easy](https://github.com/web-token/jwt-easy) - [READ ONLY] JWT made easy
 - [gbv/publikationslisten-php](https://github.com/gbv/publikationslisten-php) - PHP-Bibliothek zur Erstellung von Publikationslisten aus GBV-Katalogen
 - [CDLUC3/stash](https://github.com/CDLUC3/stash) - A UC3 application framework for storing and sharing research data
-- [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
+- [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript Data Grid with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [NeXTs/Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [matomo-org/plugin-Migration](https://github.com/matomo-org/plugin-Migration) - Migrate a Matomo Measurable (website, app, roll-up, ...) from one Matomo instance to another Matomo
