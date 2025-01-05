@@ -590,7 +590,7 @@
 - [neverpanic/google-font-download](https://github.com/neverpanic/google-font-download) - Locally host Google's web fonts
 - [felixlohmeier/seminar-praxis-der-digitalen-bibliothek](https://github.com/felixlohmeier/seminar-praxis-der-digitalen-bibliothek) - Seminar "Praxis der digitalen Bibliothek" (Sommersemester 2017) an der Hochschule Hannover, Studiengänge Informationsmanagement und I. berufsbegleitend an der Fakultät III - Medien, Information und De
 - [kix-service-software/kix-on-premise](https://github.com/kix-service-software/kix-on-premise) - Provides Docker setup for a "KIX On Premise" instance.
-- [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
+- [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
 - [mattanja/automysqlbackup](https://github.com/mattanja/automysqlbackup) - Fork and continued development of the SourceForge project http://sourceforge.net/projects/automysqlbackup/
