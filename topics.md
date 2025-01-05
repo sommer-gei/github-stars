@@ -972,7 +972,7 @@
 - [DH-Center-Tuebingen/ThesauRex](https://github.com/DH-Center-Tuebingen/ThesauRex) - Web based editor for SKOS based ontologies
 - [clarin-eric/VLO](https://github.com/clarin-eric/VLO) - Virtual Language Observatory
 - [matomo-org/plugin-LoginLdap](https://github.com/matomo-org/plugin-LoginLdap) - LDAP authentication and synchronization for Matomo.
-- [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
+- [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [web-token/jwt-easy](https://github.com/web-token/jwt-easy) - [READ ONLY] JWT made easy
 - [gbv/publikationslisten-php](https://github.com/gbv/publikationslisten-php) - PHP-Bibliothek zur Erstellung von Publikationslisten aus GBV-Katalogen
 - [CDLUC3/stash](https://github.com/CDLUC3/stash) - A UC3 application framework for storing and sharing research data
