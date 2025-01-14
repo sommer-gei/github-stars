@@ -471,7 +471,7 @@
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [matomo-org/matomo-php-tracker](https://github.com/matomo-org/matomo-php-tracker) - PHP Client for Matomo Analytics Tracking API
 - [qcovery/core](https://github.com/qcovery/core) - 
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [pkp/harvester](https://github.com/pkp/harvester) - Open Harvester Systems
 - [pkp/ocs](https://github.com/pkp/ocs) - Open Conference System
 - [pkp/ojs](https://github.com/pkp/ojs) - Open Journal Systems is open source software to manage scholarly journals.
