@@ -699,7 +699,7 @@
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 
 ## library 
 
@@ -1158,6 +1158,7 @@
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [matomo-org/matomo-php-tracker](https://github.com/matomo-org/matomo-php-tracker) - PHP Client for Matomo Analytics Tracking API
 - [qcovery/core](https://github.com/qcovery/core) - 
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [Adldap2/Adldap2](https://github.com/Adldap2/Adldap2) - A PHP LDAP Package for humans.
 - [spatie/array-functions](https://github.com/spatie/array-functions) - Some handy array functions
 - [GitLabPHP/Client](https://github.com/GitLabPHP/Client) - GitLab API v4 client for PHP
@@ -1274,6 +1275,7 @@
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 
