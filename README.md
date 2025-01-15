@@ -96,7 +96,7 @@
 - [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
 - [sibprogrammer/xq](https://github.com/sibprogrammer/xq) - Command-line XML and HTML beautifier and content extractor
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
-- [owenthereal/jqplay](https://github.com/owenthereal/jqplay) - A playground for jq, written in Go
+- [owenthereal/jqplay](https://github.com/owenthereal/jqplay) - A jq playground built with Next.js
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 
