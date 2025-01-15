@@ -87,6 +87,7 @@
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
+- [nextjs](#nextjs)
 - [nlp](#nlp)
 - [node](#node)
 - [nodejs](#nodejs)
@@ -484,7 +485,6 @@
 - [thoas/picfit](https://github.com/thoas/picfit) - An image resizing server written in Go
 - [sibprogrammer/xq](https://github.com/sibprogrammer/xq) - Command-line XML and HTML beautifier and content extractor
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
-- [owenthereal/jqplay](https://github.com/owenthereal/jqplay) - A playground for jq, written in Go
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 
 ## good-first-issue 
@@ -791,6 +791,10 @@
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
+
+## nextjs 
+
+- [owenthereal/jqplay](https://github.com/owenthereal/jqplay) - A jq playground built with Next.js
 
 ## nlp 
 
