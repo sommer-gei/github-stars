@@ -1069,6 +1069,7 @@
 - [DataTables/DataTables](https://github.com/DataTables/DataTables) - Tables plug-in for jQuery
 - [DataTables/DataTablesSrc](https://github.com/DataTables/DataTablesSrc) - DataTables source repository
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
+- [elementor/wp2static](https://github.com/elementor/wp2static) - WordPress static site generator for security, performance and cost benefits
 - [datenstrom/yellow](https://github.com/datenstrom/yellow) - Datenstrom Yellow is for people who make small websites.
 - [thephpleague/plates](https://github.com/thephpleague/plates) - Native PHP template system
 - [matecat/MateCat](https://github.com/matecat/MateCat) - MateCat is an AI driven translation tool for language industry professionals. Matecat makes machine translation post-editing and project outsourcing easy.
@@ -1273,7 +1274,6 @@
 - [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.   Previously hosted at nothingprivate.ml
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
-- [elementor/wp2static](https://github.com/elementor/wp2static) - WordPress static site generator for security, performance and cost benefits
 
 ## self-hosted 
 
@@ -1423,7 +1423,6 @@
 - [dsifford/academic-bloggers-toolkit](https://github.com/dsifford/academic-bloggers-toolkit) - WordPress plugin providing an all-in-one solution for effective academic blogging.
 - [tomhrtly/bulmawp](https://github.com/tomhrtly/bulmawp) - A free WordPress starter theme based on the Bulma CSS framework.
 - [trewknowledge/GDPR](https://github.com/trewknowledge/GDPR) - This plugin is meant to assist a Controller, Data Processor, and Data Protection Officer (DPO) with efforts to meet the obligations and rights enacted under the GDPR.
-- [elementor/wp2static](https://github.com/elementor/wp2static) - WordPress static site generator for security, performance and cost benefits
 
 ## xml 
 
