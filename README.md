@@ -117,7 +117,6 @@
 - [hakimel/stroll.js](https://github.com/hakimel/stroll.js) - CSS3 list scroll effects
 - [visgraph3/demo](https://github.com/visgraph3/demo) - 
 - [OpenBeerMap/OpenBeerMap.github.io](https://github.com/OpenBeerMap/OpenBeerMap.github.io) - Visualiser et éditer les bières pressions disponibles dans les bars.
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [fivefilters/readability.php](https://github.com/fivefilters/readability.php) - PHP port of Mozilla's Readability.js
@@ -538,6 +537,7 @@
 - [citation-file-format/citation-file-format](https://github.com/citation-file-format/citation-file-format) - The Citation File Format lets you provide citation metadata for software or datasets in plaintext files that are easy to read by both humans and machines.
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [paulgb/simplediff](https://github.com/paulgb/simplediff) - Simple Diff Function implemented in Python, PHP, CoffeeScript, and JavaScript
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [tamentis/cartman](https://github.com/tamentis/cartman) - Command line Trac tools
 - [ansible-collections/community.general](https://github.com/ansible-collections/community.general) - Ansible Community General Collection
 - [clarin-eric/monitoring](https://github.com/clarin-eric/monitoring) - Monitoring configuration for networked CLARIN services and applications.
