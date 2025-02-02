@@ -43,6 +43,7 @@
 - [emoji](#emoji)
 - [es6](#es6)
 - [eslint](#eslint)
+- [facebook](#facebook)
 - [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
@@ -410,6 +411,10 @@
 ## eslint 
 
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
+
+## facebook 
+
+- [hybridauth/hybridauth](https://github.com/hybridauth/hybridauth) - Open source social sign on PHP Library. HybridAuth goal is to act as an abstract api between your application and various social apis and identities providers such as Facebook, Twitter and Google.
 
 ## firefox 
 
