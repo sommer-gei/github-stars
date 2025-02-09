@@ -96,7 +96,6 @@
 - [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
 - [sibprogrammer/xq](https://github.com/sibprogrammer/xq) - Command-line XML and HTML beautifier and content extractor
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
-- [owenthereal/jqplay](https://github.com/owenthereal/jqplay) - A jq playground built with Next.js
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 
@@ -618,6 +617,7 @@
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
 - [rhizomik/rhizomerEye](https://github.com/rhizomik/rhizomerEye) - Client part of the new version of the Rhizomer faceted browser and visualization tool for semantic linked data.
 - [YizYah/neo-forgery](https://github.com/YizYah/neo-forgery) - 
+- [owenthereal/jqplay](https://github.com/owenthereal/jqplay) - A jq playground built with Next.js
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based web archiving crawler in a single Docker container
