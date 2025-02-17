@@ -617,7 +617,7 @@
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
 - [rhizomik/rhizomerEye](https://github.com/rhizomik/rhizomerEye) - Client part of the new version of the Rhizomer faceted browser and visualization tool for semantic linked data.
 - [YizYah/neo-forgery](https://github.com/YizYah/neo-forgery) - 
-- [owenthereal/jqplay](https://github.com/owenthereal/jqplay) - A jq playground built with Next.js
+- [jqlang/playground](https://github.com/jqlang/playground) - A jq playground built with Next.js
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based web archiving crawler in a single Docker container
