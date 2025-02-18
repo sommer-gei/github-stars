@@ -799,7 +799,7 @@
 
 ## nextjs 
 
-- [owenthereal/jqplay](https://github.com/owenthereal/jqplay) - A jq playground built with Next.js
+- [jqlang/playground](https://github.com/jqlang/playground) - A jq playground built with Next.js
 
 ## nlp 
 
