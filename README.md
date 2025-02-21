@@ -18,10 +18,10 @@
 - [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Just](#just)
 - [Less](#less)
 - [M4](#m4)
 - [Makefile](#makefile)
-- [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
@@ -314,6 +314,10 @@
 - [Mottie/Keyboard](https://github.com/Mottie/Keyboard) - Virtual Keyboard using jQuery ~
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
 
+## Just 
+
+- [davegallant/homelab](https://github.com/davegallant/homelab) - configuration for self-hosted services
+
 ## Less 
 
 - [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system
@@ -326,10 +330,6 @@
 
 - [ulbmuenster/dataasee](https://github.com/ulbmuenster/dataasee) - DatAasee - A Metadata-Lake for Libraries
 - [gbv/beaconspec](https://github.com/gbv/beaconspec) - BEACON link dump format specification
-
-## Nix 
-
-- [davegallant/homelab](https://github.com/davegallant/homelab) - configuration for self-hosted services
 
 ## Nunjucks 
 
