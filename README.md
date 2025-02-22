@@ -205,6 +205,7 @@
 - [VisualDataWeb/WebVOWL](https://github.com/VisualDataWeb/WebVOWL) - Visualizing ontologies on the Web
 - [guiveg/rdfsurveyor](https://github.com/guiveg/rdfsurveyor) - Exploration tool for RDF datasets
 - [boytchev/spam](https://github.com/boytchev/spam) - Collection of academic and pseudo-academic events, publications and web sites that spam me
+- [dini-ag-kim/avram](https://github.com/dini-ag-kim/avram) - Specification of a schema language for MARC and related formats such as PICA and MAB
 - [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [Nhogs/popoto](https://github.com/Nhogs/popoto) - Visual query builder for Neo4j graph database
@@ -349,7 +350,6 @@
 - [ror-community/ror-updates](https://github.com/ror-community/ror-updates) - Central tracking for updates to ROR
 - [byarbrough/obsidian-para](https://github.com/byarbrough/obsidian-para) - Template for using Obsidian for P.A.R.A.
 - [twbs/release](https://github.com/twbs/release) - Bootstrap Release Working Group
-- [dini-ag-kim/avram](https://github.com/dini-ag-kim/avram) - Specification of a schema language for MARC and related formats such as PICA and MAB
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [Roave/SecurityAdvisories](https://github.com/Roave/SecurityAdvisories) - :closed_lock_with_key: Security advisories as a simple composer exclusion list, updated daily
 - [semantalytics/awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
