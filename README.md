@@ -284,7 +284,6 @@
 - [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs
 - [JDilleen/datatables-bulma](https://github.com/JDilleen/datatables-bulma) - DataTables styling for the Bulma CSS framework
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-- [Wikiki/bulma-extensions](https://github.com/Wikiki/bulma-extensions) - This repository provides a simple access to all of my extensions for Bulma.io
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [speced/respec](https://github.com/speced/respec) - A tool for creating technical documents and web standards
 - [request/request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.
