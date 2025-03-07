@@ -1039,7 +1039,6 @@
 - [indexdata/phpyaz](https://github.com/indexdata/phpyaz) - Z39.50 client for PHP
 - [matecat/MateCat-Filters](https://github.com/matecat/MateCat-Filters) - Convert any file to XLIFF and back with perfectly preserved formatting! Super easy API, plenty of supported formats and advanced segmentation.
 - [erusev/parsedown-extra](https://github.com/erusev/parsedown-extra) - Markdown Extra Extension for Parsedown
-- [Wikiki/bulma-extensions](https://github.com/Wikiki/bulma-extensions) - This repository provides a simple access to all of my extensions for Bulma.io
 - [KDE/ghostwriter](https://github.com/KDE/ghostwriter) - Text editor for Markdown
 - [request/request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.
 - [whatwg/platform.html5.org](https://github.com/whatwg/platform.html5.org) - Moved to https://html-now.github.io/
