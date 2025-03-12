@@ -384,7 +384,7 @@
 - [sweetrdf/easyrdf](https://github.com/sweetrdf/easyrdf) - Maintained EasyRdf fork: a PHP library designed to make it easy to consume and produce RDF.
 - [komandar/solid-principles](https://github.com/komandar/solid-principles) - Code that explains the SOLID principles
 - [Izumi-kun/LTI-Tool-Provider-Library-PHP](https://github.com/Izumi-kun/LTI-Tool-Provider-Library-PHP) - LTI Tool Provider library for PHP
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [code-lts/doctum](https://github.com/code-lts/doctum) - A php API documentation generator, fork of Sami
 - [elabftw/elabftw](https://github.com/elabftw/elabftw) - :notebook: eLabFTW is the most popular open source electronic lab notebook for research labs.
 - [MAXakaWIZARD/JsonCollectionParser](https://github.com/MAXakaWIZARD/JsonCollectionParser) - Streaming parser for JSON collections
