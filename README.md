@@ -252,7 +252,7 @@
 - [kantord/emuto](https://github.com/kantord/emuto) - manipulate JSON files
 - [boschni/json-merger](https://github.com/boschni/json-merger) - Merge JSON files and objects with indicators like $import $remove $replace $merge
 - [misterunknown/ifm](https://github.com/misterunknown/ifm) - Improved File Manager
-- [klaro-org/klaro-js](https://github.com/klaro-org/klaro-js) - Klaro Privacy Manager. An open-source, privacy-friendly & compliant consent manager for your website.
+- [kiprotect/klaro](https://github.com/kiprotect/klaro) - Klaro Privacy Manager. An open-source, privacy-friendly & compliant consent manager for your website.
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [openwisp/netjsongraph.js](https://github.com/openwisp/netjsongraph.js) - NetJSON NetworkGraph visualizer.
 - [argob/poncho](https://github.com/argob/poncho) - Framework front-end HTML y CSS para la creación de sitios pertenecientes a la Administración Pública Nacional de la República Argentina - Basado en Bootstrap
