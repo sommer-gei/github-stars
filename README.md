@@ -239,7 +239,7 @@
 - [sozi-projects/Sozi](https://github.com/sozi-projects/Sozi) - A "zooming" presentation editor
 - [DataTables/Buttons](https://github.com/DataTables/Buttons) - Buttons is an extension for DataTables that adds control buttons to the table.
 - [gbv/jskos-server](https://github.com/gbv/jskos-server) - Web service to access JSKOS data
-- [AmauriC/tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - RGPD friendly cookie manager
+- [AmauriC/tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - Get a compliant and accessible cookie banner
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [hbunke/BibsOnGitHub](https://github.com/hbunke/BibsOnGitHub) - Library Institutions and Persons on GitHub
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
