@@ -954,7 +954,7 @@
 - [DataTables/Buttons](https://github.com/DataTables/Buttons) - Buttons is an extension for DataTables that adds control buttons to the table.
 - [oomphinc/composer-installers-extender](https://github.com/oomphinc/composer-installers-extender) - Extend the composer/installers plugin to accept any arbitrary package type.
 - [gbv/jskos-server](https://github.com/gbv/jskos-server) - Web service to access JSKOS data
-- [AmauriC/tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - RGPD friendly cookie manager
+- [AmauriC/tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - Get a compliant and accessible cookie banner
 - [tomkeays/doi](https://github.com/tomkeays/doi) - PHP scripts that pull bibliographic data from the CrossRef DOI resolver using content negotiation techniques
 - [hbunke/BibsOnGitHub](https://github.com/hbunke/BibsOnGitHub) - Library Institutions and Persons on GitHub
 - [axel-klinger/BibsOnGitHub](https://github.com/axel-klinger/BibsOnGitHub) - Libraries on GitHub
