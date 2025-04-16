@@ -21,7 +21,6 @@
 - [Just](#just)
 - [Less](#less)
 - [M4](#m4)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Nunjucks](#nunjucks)
 - [Others](#others)
@@ -118,6 +117,7 @@
 - [visgraph3/demo](https://github.com/visgraph3/demo) - 
 - [OpenBeerMap/OpenBeerMap.github.io](https://github.com/OpenBeerMap/OpenBeerMap.github.io) - Visualiser et éditer les bières pressions disponibles dans les bars.
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [fivefilters/readability.php](https://github.com/fivefilters/readability.php) - PHP port of Mozilla's Readability.js
 - [iconmeister/iconmeister.github.io](https://github.com/iconmeister/iconmeister.github.io) - IconMeister.github.io 7000+ SVG icons in one single file Web Component &lt;svg-icon&gt; (core component &lt; 1 kB) No dependencies, no external SVG files
 - [vanilla/htmlawed](https://github.com/vanilla/htmlawed) - Composer-compatible fork of the htmLawed library to purify & filter HTML.
@@ -325,10 +325,6 @@
 ## M4 
 
 - [matejak/argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator
-
-## MDX 
-
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## Makefile 
 
