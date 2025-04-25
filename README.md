@@ -162,7 +162,7 @@
 - [DSpace/DSpace](https://github.com/DSpace/DSpace) - (Official) The DSpace digital asset management system that powers your Institutional Repository
 - [ubrostock/signaturetikettendruck](https://github.com/ubrostock/signaturetikettendruck) - create and print shelfmark labels from online catalogue
 - [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
-- [pkiraly/qa-catalogue](https://github.com/pkiraly/qa-catalogue) - QA catalogue – a metadata quality assessment tool for library catalogue records (MARC, PICA)
+- [pkiraly/qa-catalogue](https://github.com/pkiraly/qa-catalogue) - QA Catalogue – a metadata quality assessment tool for library catalogue records (MARC, PICA, UNIMARC)
 - [logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) - Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
 - [codeforberlin/opacapi](https://github.com/codeforberlin/opacapi) - A web API wrapper for the opacclient library based on Spring Boot.
