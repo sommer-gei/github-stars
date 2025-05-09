@@ -12,7 +12,6 @@
 - [Gherkin](#gherkin)
 - [Go](#go)
 - [HTML](#html)
-- [Hack](#hack)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [JSON](#json)
@@ -133,13 +132,10 @@
 - [BulmaTemplates/bulma-templates](https://github.com/BulmaTemplates/bulma-templates) - free flexbox templates built with the bulma css framework
 - [whatwg/platform.html5.org](https://github.com/whatwg/platform.html5.org) - Moved to https://html-now.github.io/
 - [Zeitschriftendatenbank/pica3plus](https://github.com/Zeitschriftendatenbank/pica3plus) - Konkordanz Tabelle PICA3/PICA+ für die ZDB
+- [RDARegistry/RDA-Vocabularies](https://github.com/RDARegistry/RDA-Vocabularies) - 
 - [jenil/chota](https://github.com/jenil/chota) - A micro (3kb) CSS framework
 - [mourner/dead-simple-grid](https://github.com/mourner/dead-simple-grid) - Dead Simple Grid is a responsive CSS grid micro framework that is just that. Dead simple.
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
-
-## Hack 
-
-- [RDARegistry/RDA-Vocabularies](https://github.com/RDARegistry/RDA-Vocabularies) - 
 
 ## Handlebars 
 
