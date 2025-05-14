@@ -131,6 +131,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [vagrant](#vagrant)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -1371,6 +1372,10 @@
 
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
+
+## ui 
+
+- [mdbootstrap/material-design-for-bootstrap](https://github.com/mdbootstrap/material-design-for-bootstrap) - Important! A new UI Kit version for Bootstrap 5 is available. Access the latest free version via the link below.
 
 ## vagrant 
 
