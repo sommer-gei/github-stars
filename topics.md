@@ -563,7 +563,6 @@
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-- [vanilla/htmlawed](https://github.com/vanilla/htmlawed) - Composer-compatible fork of the htmLawed library to purify & filter HTML.
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [misterunknown/ifm](https://github.com/misterunknown/ifm) - Improved File Manager
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
@@ -716,7 +715,6 @@
 ## library 
 
 - [meyfa/php-svg](https://github.com/meyfa/php-svg) - Vector graphics (SVG) library for PHP
-- [vanilla/htmlawed](https://github.com/vanilla/htmlawed) - Composer-compatible fork of the htmLawed library to purify & filter HTML.
 - [benibela/videlibri](https://github.com/benibela/videlibri) - :books: Cross-platform library client to automate any OPAC and library catalog from your local device, e.g. for renewing of borrowed books or searching for books available in the library in automated 
 - [gbv/jskos-php](https://github.com/gbv/jskos-php) - JSKOS data model in PHP
 
@@ -952,6 +950,7 @@
 - [fivefilters/readability.php](https://github.com/fivefilters/readability.php) - PHP port of Mozilla's Readability.js
 - [geocoder-php/Geocoder](https://github.com/geocoder-php/Geocoder) - The most featured Geocoder library written in PHP.
 - [pkiraly/qa-catalogue](https://github.com/pkiraly/qa-catalogue) - QA Catalogue – a metadata quality assessment tool for library catalogue records (MARC, PICA, UNIMARC)
+- [vanilla/htmlawed](https://github.com/vanilla/htmlawed) - Composer-compatible fork of the htmLawed library to purify & filter HTML.
 - [logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) - Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228
 - [guardian/consent-management-platform](https://github.com/guardian/consent-management-platform) - Guardian consent management
 - [felixlohmeier/seminar-praxis-der-digitalen-bibliothek](https://github.com/felixlohmeier/seminar-praxis-der-digitalen-bibliothek) - Seminar "Praxis der digitalen Bibliothek" (Sommersemester 2017) an der Hochschule Hannover, Studiengänge Informationsmanagement und I. berufsbegleitend an der Fakultät III - Medien, Information und De
