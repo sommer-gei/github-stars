@@ -105,6 +105,7 @@
 - [php](#php)
 - [postgresql](#postgresql)
 - [privacy](#privacy)
+- [productivity](#productivity)
 - [project-management](#project-management)
 - [python](#python)
 - [r](#r)
@@ -1209,6 +1210,11 @@
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
+
+## productivity 
+
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
+- [luckyshot/miki](https://github.com/luckyshot/miki) - Wiki system in PHP+NoDB in just one file. 10s setup + auto-installed. Full Markdown support. Super fast and lightweight (-0.01MB gzip). Multi-User support. Minimal and beautiful.
 
 ## project-management 
 
