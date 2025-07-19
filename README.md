@@ -534,7 +534,6 @@
 - [ansible-collections/community.general](https://github.com/ansible-collections/community.general) - Ansible Community General Collection
 - [clarin-eric/monitoring](https://github.com/clarin-eric/monitoring) - Monitoring configuration for networked CLARIN services and applications.
 - [mozilla/pontoon](https://github.com/mozilla/pontoon) - Mozilla's Localization Platform
-- [dasch-swiss/ark-resolver](https://github.com/dasch-swiss/ark-resolver) - DSP ARK Resolver
 - [CenterForOpenScience/osf.io](https://github.com/CenterForOpenScience/osf.io) - Facilitating Open Science
 - [pretix/pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
 - [pietsch/oval](https://github.com/pietsch/oval) - BASE OAI-PMH Validator back end.
@@ -564,6 +563,7 @@
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
+- [dasch-swiss/ark-resolver](https://github.com/dasch-swiss/ark-resolver) - DSP ARK Resolver
 
 ## SCSS 
 
