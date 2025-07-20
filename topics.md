@@ -24,6 +24,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [cms](#cms)
 - [config](#config)
 - [cryptography](#cryptography)
 - [csharp](#csharp)
@@ -270,6 +271,12 @@
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [kantord/emuto](https://github.com/kantord/emuto) - manipulate JSON files
 - [LibreCat/Catmandu](https://github.com/LibreCat/Catmandu) - Catmandu - a data processing toolkit
+
+## cms 
+
+- [danpros/htmly](https://github.com/danpros/htmly) - Simple and fast databaseless PHP blogging platform, and Flat-File CMS
+- [pimcore/pimcore](https://github.com/pimcore/pimcore) - Core Framework for the Open Core Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
+- [TYPO3-Solr/ext-solr](https://github.com/TYPO3-Solr/ext-solr) - A TYPO3 extension that integrates the Apache Solr search server with TYPO3 CMS. dkd Internet Service GmbH is developing the extension. Community contributions are welcome. See CONTRIBUTING.md for deta
 
 ## config 
 
