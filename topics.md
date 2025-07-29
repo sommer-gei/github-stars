@@ -37,6 +37,7 @@
 - [database](#database)
 - [deno](#deno)
 - [design](#design)
+- [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
 - [django](#django)
@@ -373,6 +374,11 @@
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [mdbootstrap/material-design-for-bootstrap](https://github.com/mdbootstrap/material-design-for-bootstrap) - Important! A new UI Kit version for Bootstrap 5 is available. Access the latest free version via the link below.
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
+
+## developer-tools 
+
+- [kint-php/kint](https://github.com/kint-php/kint) - Kint - Advanced PHP dumper
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## development 
 
@@ -1278,6 +1284,7 @@
 ## rust 
 
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+- [tursodatabase/turso-client-php](https://github.com/tursodatabase/turso-client-php) - Turso + PHP - libSQL Extension for PHP (Community SDK)
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
 
