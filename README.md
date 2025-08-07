@@ -630,7 +630,7 @@
 ## Vue 
 
 - [LayoutitStudio/layoutit-grid](https://github.com/LayoutitStudio/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
-- [devmount/third-stats](https://github.com/devmount/third-stats) - Thunderbird add-on turning your emails into beautifully visualized email account stats. Built with Vue.js and Chart.js
+- [devmount/third-stats](https://github.com/devmount/third-stats) - Thunderbird add-on turning your emails into beautifully visualized email account stats.
 - [DH-Center-Tuebingen/ThesauRex](https://github.com/DH-Center-Tuebingen/ThesauRex) - Web based editor for SKOS based ontologies
 - [gbv/cocoda](https://github.com/gbv/cocoda) - A web-based tool for creating mappings between knowledge organization systems.
 - [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
