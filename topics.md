@@ -1109,7 +1109,7 @@
 - [trac-hacks/trac-subtickets-plugin](https://github.com/trac-hacks/trac-subtickets-plugin) - A sub-ticket support plugin for trac
 - [NatLibFi/RecordManager](https://github.com/NatLibFi/RecordManager) - A metadata record management system written in PHP, intended to be used in conjunction with VuFind or another Solr-based discovery interface. Provides import, export, harvesting (OAI-PMH), normalizati
 - [magicmonty/bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
-- [ProfessionalWiki/Maps](https://github.com/ProfessionalWiki/Maps) - 🗺 Maps is the MediaWiki extension that enables visualization of geographic data with dynamic embedded maps.
+- [ProfessionalWiki/Maps](https://github.com/ProfessionalWiki/Maps) - 🗺 Maps is the MediaWiki extension that enables visualization of geographic data via dynamic embedded maps.
 - [vivo-project/VIVO](https://github.com/vivo-project/VIVO) - VIVO is an extensible semantic web application for research discovery and showcasing scholarly work
 - [webmozart/path-util](https://github.com/webmozart/path-util) - A robust cross-platform utility for normalizing, comparing and modifying file paths.
 - [Islandora/chullo](https://github.com/Islandora/chullo) - Chullo is a PHP client for Fedora 5 built using Guzzle and EasyRdf.
