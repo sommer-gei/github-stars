@@ -100,6 +100,7 @@
 - [nosql](#nosql)
 - [npm](#npm)
 - [open-source](#open-source)
+- [openai](#openai)
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
@@ -149,6 +150,7 @@
 
 ## ai 
 
+- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## ajax 
@@ -864,6 +866,10 @@
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
 - [ufal/clarin-dspace](https://github.com/ufal/clarin-dspace) - clarin-dspace digital repository based on DSpace and LINDAT/CLARIN DSpace
+
+## openai 
+
+- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 
 ## others 
 
