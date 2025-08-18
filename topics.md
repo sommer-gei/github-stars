@@ -26,6 +26,7 @@
 - [cli](#cli)
 - [cms](#cms)
 - [config](#config)
+- [crawler](#crawler)
 - [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
@@ -286,6 +287,12 @@
 
 - [h5bp/server-configs-apache](https://github.com/h5bp/server-configs-apache) - Apache HTTP server boilerplate configs
 - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
+
+## crawler 
+
+- [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
+- [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based web archiving crawler in a single Docker container
+- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 
 ## cryptography 
 
@@ -963,7 +970,6 @@
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [tamentis/cartman](https://github.com/tamentis/cartman) - Command line Trac tools
-- [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based web archiving crawler in a single Docker container
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [semsol/arc2](https://github.com/semsol/arc2) - ARC RDF Classes for PHP
 - [LeaVerou/awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
