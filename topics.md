@@ -100,6 +100,7 @@
 - [nodejs](#nodejs)
 - [nosql](#nosql)
 - [npm](#npm)
+- [obsidian-md](#obsidian-md)
 - [open-source](#open-source)
 - [openai](#openai)
 - [others](#others)
@@ -867,6 +868,10 @@
 - [hiqdev/asset-packagist](https://github.com/hiqdev/asset-packagist) - Asset Packagist
 - [fxpio/composer-asset-plugin](https://github.com/fxpio/composer-asset-plugin) - NPM/Bower Dependency Manager for Composer
 
+## obsidian-md 
+
+- [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub) - Resource hub for Obsidian resources.
+
 ## open-source 
 
 - [DSpace/DSpace](https://github.com/DSpace/DSpace) - (Official) The DSpace digital asset management system that powers your Institutional Repository
@@ -928,7 +933,6 @@
 - [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org.
 - [yovisto/curriculum](https://github.com/yovisto/curriculum) - 
 - [scriptotek/php-sru-client](https://github.com/scriptotek/php-sru-client) - PHP client for Search/Retrieve via URL (SRU)
-- [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub) - Resource hub for Obsidian resources.
 - [alphagov/govuk-design-system](https://github.com/alphagov/govuk-design-system) - One place for service teams to find styles, components and patterns for designing government services.
 - [wet-boew/GCWeb](https://github.com/wet-boew/GCWeb) - Canada.ca theme - A reference implementation of the Canada.ca Content and Information Architecture Specification, the Canada.ca Content Style Guide and the Canada.ca Design System
 - [ifip-summerschool/ifip-summerschool.github.io](https://github.com/ifip-summerschool/ifip-summerschool.github.io) - 
@@ -1172,7 +1176,7 @@
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [renanbr/bibtex-parser](https://github.com/renanbr/bibtex-parser) - BibTex Parser provides an API to read .bib files programmatically.
 - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
-- [mitoteam/jpgraph](https://github.com/mitoteam/jpgraph) - JpGraph library composer package with PHP 8.4 support
+- [mitoteam/jpgraph](https://github.com/mitoteam/jpgraph) - JpGraph library composer package with PHP 8.5 support
 - [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [Galbar/JsonPath-PHP](https://github.com/Galbar/JsonPath-PHP) - A JsonPath implementation in PHP
