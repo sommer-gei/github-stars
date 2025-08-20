@@ -398,7 +398,7 @@
 - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
 - [Dr-Eberle-Zentrum/dbWebGen](https://github.com/Dr-Eberle-Zentrum/dbWebGen) - Database Web Forms Generator
 - [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
-- [mitoteam/jpgraph](https://github.com/mitoteam/jpgraph) - JpGraph library composer package with PHP 8.4 support
+- [mitoteam/jpgraph](https://github.com/mitoteam/jpgraph) - JpGraph library composer package with PHP 8.5 support
 - [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files
 - [Galbar/JsonPath-PHP](https://github.com/Galbar/JsonPath-PHP) - A JsonPath implementation in PHP
 - [SleekDB/SleekDB](https://github.com/SleekDB/SleekDB) - Pure PHP NoSQL database with no dependency. Flat file, JSON based document database.
