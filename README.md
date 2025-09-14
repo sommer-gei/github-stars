@@ -458,7 +458,7 @@
 - [seboettg/citeproc-php](https://github.com/seboettg/citeproc-php) - Full-featured CSL 1.0.1 processor for PHP
 - [techfromsage/php-niso-openurl](https://github.com/techfromsage/php-niso-openurl) - A php client library for parsing and generating NISO Z39.88 (OpenURL) context objects
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
-- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
+- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard self hosted URL shortener in PHP
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [matomo-org/matomo-php-tracker](https://github.com/matomo-org/matomo-php-tracker) - PHP Client for Matomo Analytics Tracking API
 - [qcovery/core](https://github.com/qcovery/core) - 
