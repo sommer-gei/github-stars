@@ -898,7 +898,7 @@
 - [ArchiveTeam/terroroftinytown](https://github.com/ArchiveTeam/terroroftinytown) - URLTeam's second generation of URL shortener archiving tools
 - [gbv/beaconspec](https://github.com/gbv/beaconspec) - BEACON link dump format specification
 - [sweetrdf/easyrdf](https://github.com/sweetrdf/easyrdf) - Maintained EasyRdf fork: a PHP library designed to make it easy to consume and produce RDF.
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, su
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
 - [funbox/beatrix](https://github.com/funbox/beatrix) - A tool to chop off useless fonts glyphs and convert TTF/OTF into WOFF & WOFF2
 - [komandar/solid-principles](https://github.com/komandar/solid-principles) - Code that explains the SOLID principles
 - [dini-ag-kim/stoeberspecs](https://github.com/dini-ag-kim/stoeberspecs) - Werkzeuge und Verfahren zur Standardisierung von OER-Metadaten
