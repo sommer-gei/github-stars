@@ -112,6 +112,7 @@
 - [postgresql](#postgresql)
 - [privacy](#privacy)
 - [productivity](#productivity)
+- [programming-language](#programming-language)
 - [project-management](#project-management)
 - [python](#python)
 - [r](#r)
@@ -1249,6 +1250,11 @@
 
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [luckyshot/miki](https://github.com/luckyshot/miki) - Wiki system in PHP+NoDB in just one file. 10s setup + auto-installed. Full Markdown support. Super fast and lightweight (-0.01MB gzip). Multi-User support. Minimal and beautiful.
+
+## programming-language 
+
+- [kantord/emuto](https://github.com/kantord/emuto) - manipulate JSON files
+- [locutusjs/locutus](https://github.com/locutusjs/locutus) - Bringing stdlibs of other programming languages to JavaScript for educational purposes
 
 ## project-management 
 
