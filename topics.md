@@ -142,6 +142,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [vagrant](#vagrant)
+- [visualization](#visualization)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -1431,6 +1432,13 @@
 ## vagrant 
 
 - [DSpace/vagrant-dspace](https://github.com/DSpace/vagrant-dspace) - (No longer actively maintained. Replaced by Docker compose in main codebase.) DSpace + Vagrant. Quickly spin up a virtual machine (via Vagrant) which is "DSpace development ready"
+
+## visualization 
+
+- [VisualDataWeb/WebVOWL](https://github.com/VisualDataWeb/WebVOWL) - Visualizing ontologies on the Web
+- [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
+- [Dr-Eberle-Zentrum/dbWebGen](https://github.com/Dr-Eberle-Zentrum/dbWebGen) - Database Web Forms Generator
+- [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 
 ## vue 
 
