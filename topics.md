@@ -152,6 +152,7 @@
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xml](#xml)
+- [youtube](#youtube)
 
 ## ai 
 
@@ -1509,6 +1510,10 @@
 - [intranda/goobi-viewer-core](https://github.com/intranda/goobi-viewer-core) - Goobi viewer - Presentation software for digital libraries, museums, archives and galleries. Open Source.
 - [intranda/goobi-viewer-indexer](https://github.com/intranda/goobi-viewer-indexer) - Goobi viewer - Indexer daemon to monitor hotfolder, add metadata to Apache Solr index and move files to correct folders.
 - [LibreCat/Catmandu](https://github.com/LibreCat/Catmandu) - Catmandu - a data processing toolkit
+
+## youtube 
+
+- [sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin.
 
 
 ## License
