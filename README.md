@@ -519,7 +519,7 @@
 
 - [inveniosoftware/invenio-vocabularies](https://github.com/inveniosoftware/invenio-vocabularies) - Invenio module for managing vocabularies.
 - [ArchiveTeam/terroroftinytown](https://github.com/ArchiveTeam/terroroftinytown) - URLTeam's second generation of URL shortener archiving tools
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [openownership/data-standard](https://github.com/openownership/data-standard) - The Beneficial Ownership Data Standard (BODS) is an open standard providing a specification for modelling and publishing information on the beneficial ownership and control of corporate vehicles
 - [leondz/hatespeechdata](https://github.com/leondz/hatespeechdata) - Catalog of abusive language data (PLoS 2020)
 - [endoflife-date/release-data](https://github.com/endoflife-date/release-data) - Common Release Data for various projects in a consumable format, automatically updated.
