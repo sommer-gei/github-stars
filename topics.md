@@ -676,7 +676,7 @@
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced open-source browser fingerprinting library
 - [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming pattern
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
@@ -907,7 +907,7 @@
 - [ArchiveTeam/terroroftinytown](https://github.com/ArchiveTeam/terroroftinytown) - URLTeam's second generation of URL shortener archiving tools
 - [gbv/beaconspec](https://github.com/gbv/beaconspec) - BEACON link dump format specification
 - [sweetrdf/easyrdf](https://github.com/sweetrdf/easyrdf) - Maintained EasyRdf fork: a PHP library designed to make it easy to consume and produce RDF.
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [funbox/beatrix](https://github.com/funbox/beatrix) - A tool to chop off useless fonts glyphs and convert TTF/OTF into WOFF & WOFF2
 - [komandar/solid-principles](https://github.com/komandar/solid-principles) - Code that explains the SOLID principles
 - [dini-ag-kim/stoeberspecs](https://github.com/dini-ag-kim/stoeberspecs) - Werkzeuge und Verfahren zur Standardisierung von OER-Metadaten
