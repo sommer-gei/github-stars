@@ -205,7 +205,6 @@
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [Nhogs/popoto](https://github.com/Nhogs/popoto) - Visual query builder for Neo4j graph database
 - [hakimel/forkit.js](https://github.com/hakimel/forkit.js) - an animated GitHub ribbon
-- [dauxio/daux.io](https://github.com/dauxio/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer f
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [kewisch/quickmove-extension](https://github.com/kewisch/quickmove-extension) - Quick Folder Move Add-on for Thunderbird
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
@@ -391,6 +390,7 @@
 - [breck7/brecksblog](https://github.com/breck7/brecksblog) - A high performance blog in under 250 lines of code. No MySQL needed!
 - [hyn/frontmatter](https://github.com/hyn/frontmatter) - Markdown with meta frontmatters of type json, toml and yaml
 - [jfcherng/php-diff](https://github.com/jfcherng/php-diff) - A comprehensive library for generating differences between two strings in multiple formats (unified, side by side HTML etc).
+- [dauxio/daux.io](https://github.com/dauxio/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer f
 - [addwiki/mediawiki-api](https://github.com/addwiki/mediawiki-api) - Library with services for interacting with the Mediawiki API, [READ-ONLY] split from https://github.com/addwiki/addwiki
 - [PressForward/pressforward](https://github.com/PressForward/pressforward) - PressForward is a free plugin that provides an editorial workflow for content aggregation and curation within the WordPress dashboard. It is designed for bloggers and editorial teams who wish to colle
 - [renanbr/bibtex-parser](https://github.com/renanbr/bibtex-parser) - BibTex Parser provides an API to read .bib files programmatically.
