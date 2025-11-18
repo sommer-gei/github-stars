@@ -375,7 +375,7 @@
 - [komandar/solid-principles](https://github.com/komandar/solid-principles) - Code that explains the SOLID principles
 - [Izumi-kun/LTI-Tool-Provider-Library-PHP](https://github.com/Izumi-kun/LTI-Tool-Provider-Library-PHP) - LTI Tool Provider library for PHP
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
-- [code-lts/doctum](https://github.com/code-lts/doctum) - A php API documentation generator, fork of Sami
+- [code-lts/doctum](https://github.com/code-lts/doctum) - A PHP API documentation generator
 - [elabftw/elabftw](https://github.com/elabftw/elabftw) - :notebook: eLabFTW is the most popular open source electronic lab notebook for research labs.
 - [MAXakaWIZARD/JsonCollectionParser](https://github.com/MAXakaWIZARD/JsonCollectionParser) - Streaming parser for JSON collections
 - [raphaelstolt/json-lines](https://github.com/raphaelstolt/json-lines) - Library for the JSON Lines text file format.
