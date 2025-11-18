@@ -435,7 +435,7 @@
 
 ## documentation 
 
-- [code-lts/doctum](https://github.com/code-lts/doctum) - A php API documentation generator, fork of Sami
+- [code-lts/doctum](https://github.com/code-lts/doctum) - A PHP API documentation generator
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -1174,7 +1174,7 @@
 
 - [tursodatabase/turso-client-php](https://github.com/tursodatabase/turso-client-php) - Turso + PHP - libSQL Extension for PHP (Community SDK)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
-- [code-lts/doctum](https://github.com/code-lts/doctum) - A php API documentation generator, fork of Sami
+- [code-lts/doctum](https://github.com/code-lts/doctum) - A PHP API documentation generator
 - [elabftw/elabftw](https://github.com/elabftw/elabftw) - :notebook: eLabFTW is the most popular open source electronic lab notebook for research labs.
 - [utopia-php/domains](https://github.com/utopia-php/domains) - Lite & fast micro PHP domain parsing library that is **easy to use**.
 - [SoftCreatR/JSONPath](https://github.com/SoftCreatR/JSONPath) - JSONPath implementation for PHP.
