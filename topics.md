@@ -65,6 +65,7 @@
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
 - [google](#google)
+- [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [html](#html)
@@ -148,6 +149,7 @@
 - [web](#web)
 - [web-components](#web-components)
 - [web-development](#web-development)
+- [web3](#web3)
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
@@ -549,6 +551,12 @@
 
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [hybridauth/hybridauth](https://github.com/hybridauth/hybridauth) - Open source social sign on PHP Library. HybridAuth goal is to act as an abstract api between your application and various social apis and identities providers such as Facebook, Twitter and Google.
+
+## gui 
+
+- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
+- [Dr-Eberle-Zentrum/dbWebGen](https://github.com/Dr-Eberle-Zentrum/dbWebGen) - Database Web Forms Generator
+- [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
 
 ## hacktoberfest 
 
@@ -1469,6 +1477,10 @@
 ## web-development 
 
 - [Chalarangelo/mini.css](https://github.com/Chalarangelo/mini.css) - A minimal, responsive, style-agnostic CSS framework!
+
+## web3 
+
+- [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 
 ## website 
 
