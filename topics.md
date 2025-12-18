@@ -140,6 +140,7 @@
 - [symfony](#symfony)
 - [terminal](#terminal)
 - [testing](#testing)
+- [tui](#tui)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -693,7 +694,7 @@
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced open-source browser fingerprinting library
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
 - [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming pattern
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
@@ -1428,6 +1429,10 @@
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [cypress-io/cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes) - Various recipes for testing common scenarios with Cypress
 - [Codeception/Codeception](https://github.com/Codeception/Codeception) - Full-stack testing PHP framework
+
+## tui 
+
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 
 ## twitter 
 
