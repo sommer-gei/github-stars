@@ -227,7 +227,7 @@
 - [mjackson/resolve-pathname](https://github.com/mjackson/resolve-pathname) - Resolve URL pathnames using JavaScript
 - [mjackson/http-client](https://github.com/mjackson/http-client) - Compose HTTP clients using JavaScript's fetch API
 - [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [sozi-projects/Sozi](https://github.com/sozi-projects/Sozi) - A "zooming" presentation editor
 - [DataTables/Buttons](https://github.com/DataTables/Buttons) - Buttons is an extension for DataTables that adds control buttons to the table.
