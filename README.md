@@ -74,7 +74,6 @@
 - [guardian/consent-management-platform](https://github.com/guardian/consent-management-platform) - Guardian consent management
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [CDLUC3/stash](https://github.com/CDLUC3/stash) - A UC3 application framework for storing and sharing research data
-- [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Communists).
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [jgthms/bulma-start](https://github.com/jgthms/bulma-start) - Start package for Bulma
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
@@ -127,6 +126,7 @@
 - [metafizzy/isotope](https://github.com/metafizzy/isotope) - :revolving_hearts: Filter & sort magical layouts
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [dbox/html5-kitchen-sink](https://github.com/dbox/html5-kitchen-sink) - :potable_water: Sample markup containing all HTML5 elements for jumpstarting/testing css
+- [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Communists).
 - [matecat/MateCat-Filters](https://github.com/matecat/MateCat-Filters) - Convert any file to XLIFF and back with perfectly preserved formatting! Super easy API, plenty of supported formats and advanced segmentation.
 - [postare/bulma-modal-fx](https://github.com/postare/bulma-modal-fx) - A set of modal window effects with CSS transitions and animations for Bulma.
 - [BulmaTemplates/bulma-templates](https://github.com/BulmaTemplates/bulma-templates) - free flexbox templates built with the bulma css framework
