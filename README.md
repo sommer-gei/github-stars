@@ -124,6 +124,7 @@
 - [benibela/videlibri](https://github.com/benibela/videlibri) - :books: Cross-platform library client to automate any OPAC and library catalog from your local device, e.g. for renewing of borrowed books or searching for books available in the library in automated 
 - [axel-klinger/BibsOnGitHub](https://github.com/axel-klinger/BibsOnGitHub) - Libraries on GitHub
 - [metafizzy/isotope](https://github.com/metafizzy/isotope) - :revolving_hearts: Filter & sort magical layouts
+- [locutusjs/locutus](https://github.com/locutusjs/locutus) - Bringing stdlibs of other programming languages to JavaScript for educational purposes
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [dbox/html5-kitchen-sink](https://github.com/dbox/html5-kitchen-sink) - :potable_water: Sample markup containing all HTML5 elements for jumpstarting/testing css
 - [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Communists).
@@ -265,7 +266,6 @@
 - [rufuspollock-okfn/wikipediajs](https://github.com/rufuspollock-okfn/wikipediajs) - A small Javascript library for accessing information in Wikipedia articles such as dates, places, abstracts and more
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 - [wickedest/Mergely](https://github.com/wickedest/Mergely) - Merge and diff documents online
-- [locutusjs/locutus](https://github.com/locutusjs/locutus) - Bringing stdlibs of other programming languages to JavaScript for educational purposes
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [hbz/lobid](https://github.com/hbz/lobid) - Linking Open Bibliographic Data
 - [fabiospampinato/cash](https://github.com/fabiospampinato/cash) - An absurdly small jQuery alternative for modern browsers.
