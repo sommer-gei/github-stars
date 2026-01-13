@@ -147,6 +147,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [vagrant](#vagrant)
+- [video](#video)
 - [visualization](#visualization)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -1464,6 +1465,10 @@
 ## vagrant 
 
 - [DSpace/vagrant-dspace](https://github.com/DSpace/vagrant-dspace) - (No longer actively maintained. Replaced by Docker compose in main codebase.) DSpace + Vagrant. Quickly spin up a virtual machine (via Vagrant) which is "DSpace development ready"
+
+## video 
+
+- [sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin.
 
 ## visualization 
 
