@@ -90,6 +90,7 @@
 - [localization](#localization)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [malware](#malware)
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [mcp](#mcp)
@@ -815,6 +816,10 @@
 - [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 
+## malware 
+
+- [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
+
 ## markdown 
 
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
@@ -1071,7 +1076,6 @@
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [RealRaven2000/QuickFolders](https://github.com/RealRaven2000/QuickFolders) - Thunderbird Add-on: QuickFolders
 - [pimcore/demo](https://github.com/pimcore/demo) - The Official Pimcore Demo Package - You're new to Pimcore? That's your entry point! 🤓
-- [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
 - [pear/File_MARC](https://github.com/pear/File_MARC) - 
 - [DataTables/Responsive](https://github.com/DataTables/Responsive) - Responsive extension for DataTables, providing support for complex tables on all device screen sizes
 - [julkue/datatables.mark.js](https://github.com/julkue/datatables.mark.js) - A DataTables plugin for mark.js to highlight search terms in tables
