@@ -76,7 +76,7 @@
 - [CDLUC3/stash](https://github.com/CDLUC3/stash) - A UC3 application framework for storing and sharing research data
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [jgthms/bulma-start](https://github.com/jgthms/bulma-start) - Start package for Bulma
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2026
 - [picturepan2/spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
 - [Chalarangelo/mini.css](https://github.com/Chalarangelo/mini.css) - A minimal, responsive, style-agnostic CSS framework!
 - [DataTables/DataTables](https://github.com/DataTables/DataTables) - Tables plug-in for jQuery
