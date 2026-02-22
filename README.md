@@ -17,7 +17,6 @@
 - [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Just](#just)
 - [Less](#less)
 - [M4](#m4)
 - [Makefile](#makefile)
@@ -307,10 +306,6 @@
 - [Mottie/Keyboard](https://github.com/Mottie/Keyboard) - Virtual Keyboard using jQuery ~
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
 
-## Just 
-
-- [davegallant/homelab](https://github.com/davegallant/homelab) - configuration for self-hosted services
-
 ## Less 
 
 - [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system
@@ -575,6 +570,7 @@
 
 - [ludovicianul/hq](https://github.com/ludovicianul/hq) - lightweight command line HTML processor using CSS and XPath selectors
 - [desecsecurity/parsing_html_bash](https://github.com/desecsecurity/parsing_html_bash) - Script para Parsing HTML
+- [davegallant/homelab](https://github.com/davegallant/homelab) - configuration for self-hosted services
 - [programmfabrik/fylr-install](https://github.com/programmfabrik/fylr-install) - This repository contains different installation methods for the fylr.
 - [atmire/COUNTER-Robots](https://github.com/atmire/COUNTER-Robots) - Official list of user agents that are regarded as robots/spiders by COUNTER
 - [chris-marsh/pureline](https://github.com/chris-marsh/pureline) - A Pure Bash Powerline PS1 Command Prompt
