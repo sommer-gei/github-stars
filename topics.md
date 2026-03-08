@@ -1072,7 +1072,7 @@
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [matomo-org/plugin-Migration](https://github.com/matomo-org/plugin-Migration) - Migrate a Matomo Measurable (website, app, roll-up, ...) from one Matomo instance to another Matomo
 - [solrmarc/solrmarc](https://github.com/solrmarc/solrmarc) - SolrMarc is a utility that reads in MARC records, extracts  information from various fields as specified in an indexing specification, and sends that information to a specified Apache Solr index.
-- [bbalet/jorani](https://github.com/bbalet/jorani) - Leave and Overtime Management System
+- [jorani/jorani](https://github.com/jorani/jorani) - Leave and Overtime Management System
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [RealRaven2000/QuickFolders](https://github.com/RealRaven2000/QuickFolders) - Thunderbird Add-on: QuickFolders
 - [pimcore/demo](https://github.com/pimcore/demo) - The Official Pimcore Demo Package - You're new to Pimcore? That's your entry point! 🤓
