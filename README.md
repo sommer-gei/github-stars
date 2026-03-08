@@ -436,7 +436,7 @@
 - [gbv/publikationslisten-php](https://github.com/gbv/publikationslisten-php) - PHP-Bibliothek zur Erstellung von Publikationslisten aus GBV-Katalogen
 - [pimcore/pimcore](https://github.com/pimcore/pimcore) - Core Framework for the Open Core Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
 - [matomo-org/plugin-Migration](https://github.com/matomo-org/plugin-Migration) - Migrate a Matomo Measurable (website, app, roll-up, ...) from one Matomo instance to another Matomo
-- [bbalet/jorani](https://github.com/bbalet/jorani) - Leave and Overtime Management System
+- [jorani/jorani](https://github.com/jorani/jorani) - Leave and Overtime Management System
 - [pimcore/demo](https://github.com/pimcore/demo) - The Official Pimcore Demo Package - You're new to Pimcore? That's your entry point! 🤓
 - [pear/File_MARC](https://github.com/pear/File_MARC) - 
 - [mrgeneralgoo/parsedown-extension](https://github.com/mrgeneralgoo/parsedown-extension) - Markdown Extension for Parsedown
