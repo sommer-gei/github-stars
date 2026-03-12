@@ -113,7 +113,6 @@
 - [hakimel/stroll.js](https://github.com/hakimel/stroll.js) - CSS3 list scroll effects
 - [visgraph3/demo](https://github.com/visgraph3/demo) - 
 - [OpenBeerMap/OpenBeerMap.github.io](https://github.com/OpenBeerMap/OpenBeerMap.github.io) - Visualiser et éditer les bières pressions disponibles dans les bars.
-- [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [fivefilters/readability.php](https://github.com/fivefilters/readability.php) - PHP port of Mozilla's Readability.js
 - [iconmeister/iconmeister.github.io](https://github.com/iconmeister/iconmeister.github.io) - IconMeister.github.io 7000+ SVG icons in one single file Web Component &lt;svg-icon&gt; (core component &lt; 1 kB) No dependencies, no external SVG files
@@ -218,6 +217,7 @@
 - [gbv/pica-editor](https://github.com/gbv/pica-editor) - Vue component to inspect and edit PICA+ records
 - [pro4bib/pica](https://github.com/pro4bib/pica) - Einführung in die Verarbeitung von PICA-Daten
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
+- [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [LeaVerou/awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 - [gbv/pica-data-js](https://github.com/gbv/pica-data-js) - EcmaScript utilities to process PICA data
