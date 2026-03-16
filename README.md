@@ -187,7 +187,6 @@
 - [jeffchiou/coordiscroll](https://github.com/jeffchiou/coordiscroll) - Adaptable synchronized scrolling of DOM elements using the Publish-Subscribe pattern. Vanilla JS. In alpha.
 - [hyvyys/language-data](https://github.com/hyvyys/language-data) - Pangrams, sample sentences, character sets and metadata for the world's languages
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
-- [pioul/Minimalist-Online-Markdown-Editor](https://github.com/pioul/Minimalist-Online-Markdown-Editor) - This is the simplest and slickest online Markdown editor.
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
 - [jackspirou/clientjs](https://github.com/jackspirou/clientjs) - Device information and digital fingerprinting written in pure JavaScript.
