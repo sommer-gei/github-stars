@@ -961,7 +961,6 @@
 - [wardi/jsonlines](https://github.com/wardi/jsonlines) - Documentation for the JSON Lines text file format
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 - [portive/wysimark](https://github.com/portive/wysimark) - The Wysiwyg Editor for Markdown: 100% CommonMark + GFM with Uploads and Image Resizing
-- [pioul/Minimalist-Online-Markdown-Editor](https://github.com/pioul/Minimalist-Online-Markdown-Editor) - This is the simplest and slickest online Markdown editor.
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
 - [dini-ag-kim/schulfaecher](https://github.com/dini-ag-kim/schulfaecher) - 
 - [dini-ag-kim/schularten](https://github.com/dini-ag-kim/schularten) - 
