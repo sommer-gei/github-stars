@@ -465,7 +465,7 @@
 - [spatie/array-functions](https://github.com/spatie/array-functions) - Some handy array functions
 - [bookdown/Bookdown.Project](https://github.com/bookdown/Bookdown.Project) - A skeleton project for Bookdown generation.
 - [GitLabPHP/Client](https://github.com/GitLabPHP/Client) - GitLab API v4 client for PHP
-- [pandorafms/pandorafms](https://github.com/pandorafms/pandorafms) - Pandora FMS is an open source monitoring application whose origin dates back to 2004. It integrates in the same application the monitoring of different infrastructure elements: networks, applications,
+- [pandorafms/pandorafms](https://github.com/pandorafms/pandorafms) - This is the old repo for Pandora OPEN project (Pandora FMS OpenSource)
 - [punic/punic](https://github.com/punic/punic) - PHP translation and localization made easy!
 - [thephpleague/commonmark-extras](https://github.com/thephpleague/commonmark-extras) - Useful extensions for the league/commonmark parser
 - [taufik-nurrohman/parsedown-extra-plugin](https://github.com/taufik-nurrohman/parsedown-extra-plugin) - Configurable Markdown to HTML converter with Parsedown Extra.
