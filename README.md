@@ -448,7 +448,7 @@
 - [MenaraSolutions/geographer](https://github.com/MenaraSolutions/geographer) - PHP library that knows how countries and cities are called in any language
 - [thaider/Tweeki](https://github.com/thaider/Tweeki) - MediaWiki skin based on Twitter's Bootstrap
 - [jwage/purl](https://github.com/jwage/purl) - Purl is a simple Object Oriented URL manipulation library for PHP 7.2+
-- [seboettg/citeproc-php](https://github.com/seboettg/citeproc-php) - Full-featured CSL 1.0.1 processor for PHP
+- [pkp/citeproc-php](https://github.com/pkp/citeproc-php) - Full-featured CSL 1.0.1 processor for PHP
 - [talis/php-niso-openurl](https://github.com/talis/php-niso-openurl) - A php client library for parsing and generating NISO Z39.88 (OpenURL) context objects
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP
