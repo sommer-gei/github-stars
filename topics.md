@@ -1100,7 +1100,7 @@
 - [thaider/Tweeki](https://github.com/thaider/Tweeki) - MediaWiki skin based on Twitter's Bootstrap
 - [fcrepo4-labs/fcrepo4-oaiprovider](https://github.com/fcrepo4-labs/fcrepo4-oaiprovider) - Fedora 4 OAI Provider implementation
 - [CrossRef/rest-api-doc](https://github.com/CrossRef/rest-api-doc) - Documentation for Crossref's REST API. For questions or suggestions, see https://community.crossref.org/
-- [seboettg/citeproc-php](https://github.com/seboettg/citeproc-php) - Full-featured CSL 1.0.1 processor for PHP
+- [pkp/citeproc-php](https://github.com/pkp/citeproc-php) - Full-featured CSL 1.0.1 processor for PHP
 - [talis/php-niso-openurl](https://github.com/talis/php-niso-openurl) - A php client library for parsing and generating NISO Z39.88 (OpenURL) context objects
 - [pkp/harvester](https://github.com/pkp/harvester) - Open Harvester Systems
 - [pkp/ocs](https://github.com/pkp/ocs) - Open Conference System
