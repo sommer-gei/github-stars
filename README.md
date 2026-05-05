@@ -14,13 +14,13 @@
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
-- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Just](#just)
 - [Less](#less)
 - [M4](#m4)
 - [Makefile](#makefile)
+- [Markdown](#markdown)
 - [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
@@ -142,10 +142,6 @@
 ## Haskell 
 
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
-
-## JSON 
-
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Java 
 
@@ -321,6 +317,10 @@
 
 - [ulbmuenster/dataasee](https://github.com/ulbmuenster/dataasee) - DatAasee - A Metadata-Lake for Libraries
 - [gbv/beaconspec](https://github.com/gbv/beaconspec) - BEACON link dump format specification
+
+## Markdown 
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Nunjucks 
 
