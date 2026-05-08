@@ -225,7 +225,6 @@
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [sozi-projects/Sozi](https://github.com/sozi-projects/Sozi) - A "zooming" presentation editor
-- [DataTables/Buttons](https://github.com/DataTables/Buttons) - Buttons is an extension for DataTables that adds control buttons to the table.
 - [gbv/jskos-server](https://github.com/gbv/jskos-server) - Web service to access JSKOS data
 - [AmauriC/tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - Get a compliant and accessible cookie banner
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
@@ -251,7 +250,6 @@
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺
 - [cypress-io/cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes) - Various recipes for testing common scenarios with Cypress
 - [RealRaven2000/QuickFolders](https://github.com/RealRaven2000/QuickFolders) - Thunderbird Add-on: QuickFolders
-- [DataTables/Responsive](https://github.com/DataTables/Responsive) - Responsive extension for DataTables, providing support for complex tables on all device screen sizes
 - [julkue/datatables.mark.js](https://github.com/julkue/datatables.mark.js) - A DataTables plugin for mark.js to highlight search terms in tables
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 - [wikimedia/mediawiki-api-demos](https://github.com/wikimedia/mediawiki-api-demos) - Demo apps and code snippets in Python, Javascript and PHP demonstrating how to use various modules of the MediaWiki Action API
@@ -615,9 +613,11 @@
 - [sparna-git/Sparnatural](https://github.com/sparna-git/Sparnatural) - Sparnatural : visual knowledge graph explorer with SPARQL, in the browser, configurable with SHACL
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
+- [DataTables/Buttons](https://github.com/DataTables/Buttons) - Buttons is an extension for DataTables that adds control buttons to the table.
 - [dsifford/academic-bloggers-toolkit](https://github.com/dsifford/academic-bloggers-toolkit) - WordPress plugin providing an all-in-one solution for effective academic blogging.
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
+- [DataTables/Responsive](https://github.com/DataTables/Responsive) - Responsive extension for DataTables, providing support for complex tables on all device screen sizes
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
 - [locutusjs/locutus](https://github.com/locutusjs/locutus) - Bringing stdlibs of other programming languages to TypeScript for fun
