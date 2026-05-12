@@ -95,7 +95,6 @@
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [mcp](#mcp)
-- [microsoft](#microsoft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
@@ -108,7 +107,6 @@
 - [npm](#npm)
 - [obsidian-md](#obsidian-md)
 - [open-source](#open-source)
-- [openai](#openai)
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
@@ -852,10 +850,6 @@
 
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
-## microsoft 
-
-- [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
-
 ## mobile 
 
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
@@ -922,10 +916,6 @@
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
 - [ufal/clarin-dspace](https://github.com/ufal/clarin-dspace) - clarin-dspace digital repository based on DSpace and LINDAT/CLARIN DSpace
-
-## openai 
-
-- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 
 ## others 
 
@@ -1084,6 +1074,7 @@
 - [DataTables/Responsive](https://github.com/DataTables/Responsive) - Responsive extension for DataTables, providing support for complex tables on all device screen sizes
 - [julkue/datatables.mark.js](https://github.com/julkue/datatables.mark.js) - A DataTables plugin for mark.js to highlight search terms in tables
 - [DSpace-Labs/AIP-Files](https://github.com/DSpace-Labs/AIP-Files) - Repo of re-usable AIP files for DSpace testing
+- [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
 - [mrgeneralgoo/parsedown-extension](https://github.com/mrgeneralgoo/parsedown-extension) - Markdown Extension for Parsedown
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 - [hail2u/html-best-practices](https://github.com/hail2u/html-best-practices) - For writing maintainable and scalable HTML documents
