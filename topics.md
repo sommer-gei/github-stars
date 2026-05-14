@@ -1126,7 +1126,7 @@
 - [clarin-eric/resource-families-issues](https://github.com/clarin-eric/resource-families-issues) - 
 - [LeaVerou/inspire.js](https://github.com/LeaVerou/inspire.js) - Lean, hackable, extensible slide deck framework. Previously known as CSSS.
 - [kneath/kss](https://github.com/kneath/kss) - A methodology for documenting CSS and generating styleguides.
-- [iconify/icon-sets](https://github.com/iconify/icon-sets) - 150+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically 3 times a week.
+- [iconify/icon-sets](https://github.com/iconify/icon-sets) - 150+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically several times a week.
 - [weixsong/elasticlunr.js](https://github.com/weixsong/elasticlunr.js) - Based on lunr.js, but more flexible and customized.
 - [gbv/jskos](https://github.com/gbv/jskos) - JSKOS data format for Knowledge Organization Systems
 - [intranda/goobi-workflow](https://github.com/intranda/goobi-workflow) - Goobi workflow - Workflow management software for digitisation projects used in more than 80 cultural heritage institutions in at least 18 countries.
