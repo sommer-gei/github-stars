@@ -272,7 +272,7 @@
 - [speced/respec](https://github.com/speced/respec) - A tool for creating technical documents and web standards
 - [request/request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.
 - [MihaiValentin/lunr-languages](https://github.com/MihaiValentin/lunr-languages) - A collection of languages stemmers and stopwords for Lunr Javascript library
-- [LeaVerou/inspire.js](https://github.com/LeaVerou/inspire.js) - Lean, hackable, extensible slide deck framework. Previously known as CSSS.
+- [inspire-js/inspire.js](https://github.com/inspire-js/inspire.js) - Lean, hackable, extensible slide deck framework. Previously known as CSSS.
 - [weixsong/elasticlunr.js](https://github.com/weixsong/elasticlunr.js) - Based on lunr.js, but more flexible and customized.
 - [gbv/jskos](https://github.com/gbv/jskos) - JSKOS data format for Knowledge Organization Systems
 - [gbv/dbinfo](https://github.com/gbv/dbinfo) - Datenbankinformationen als Linked Open Data
@@ -420,7 +420,7 @@
 - [leenooks/phpLDAPadmin](https://github.com/leenooks/phpLDAPadmin) - phpLDAPadmin - Web based LDAP administration tool
 - [kint-php/kint](https://github.com/kint-php/kint) - Kint - Advanced PHP dumper
 - [gbv/jskos-php](https://github.com/gbv/jskos-php) - JSKOS data model in PHP
-- [dagd/dagd](https://github.com/dagd/dagd) - A URL shortener with various other utilities, backed by a custom lightweight framework.
+- [dagd/dagd](https://github.com/dagd/dagd) - A URL shortener with various other utilities, backed by a custom lightweight framework. We are moving to Codeberg: https://codeberg.org/dagd/dagd
 - [mkucej/i-librarian-free](https://github.com/mkucej/i-librarian-free) - I, Librarian - open-source version of  a PDF managing SaaS.
 - [SajadKarim/vufind](https://github.com/SajadKarim/vufind) - A library resource discovery portal designed and developed for libraries by libraries
 - [catchpoint/WebPageTest](https://github.com/catchpoint/WebPageTest) - Official repository for WebPageTest
