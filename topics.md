@@ -1124,7 +1124,7 @@
 - [ehanson8/dspace-editing](https://github.com/ehanson8/dspace-editing) - Scripts for editing DSpace data
 - [dewitt/opensearch](https://github.com/dewitt/opensearch) - OpenSearch is a collection of simple formats for the sharing of search results.
 - [clarin-eric/resource-families-issues](https://github.com/clarin-eric/resource-families-issues) - 
-- [LeaVerou/inspire.js](https://github.com/LeaVerou/inspire.js) - Lean, hackable, extensible slide deck framework. Previously known as CSSS.
+- [inspire-js/inspire.js](https://github.com/inspire-js/inspire.js) - Lean, hackable, extensible slide deck framework. Previously known as CSSS.
 - [kneath/kss](https://github.com/kneath/kss) - A methodology for documenting CSS and generating styleguides.
 - [iconify/icon-sets](https://github.com/iconify/icon-sets) - 200+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically several times a week.
 - [weixsong/elasticlunr.js](https://github.com/weixsong/elasticlunr.js) - Based on lunr.js, but more flexible and customized.
@@ -1228,7 +1228,7 @@
 - [NatLibFi/Skosmos](https://github.com/NatLibFi/Skosmos) - Thesaurus and controlled vocabulary browser using SKOS and SPARQL
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [kint-php/kint](https://github.com/kint-php/kint) - Kint - Advanced PHP dumper
-- [dagd/dagd](https://github.com/dagd/dagd) - A URL shortener with various other utilities, backed by a custom lightweight framework.
+- [dagd/dagd](https://github.com/dagd/dagd) - A URL shortener with various other utilities, backed by a custom lightweight framework. We are moving to Codeberg: https://codeberg.org/dagd/dagd
 - [mkucej/i-librarian-free](https://github.com/mkucej/i-librarian-free) - I, Librarian - open-source version of  a PDF managing SaaS.
 - [misterunknown/ifm](https://github.com/misterunknown/ifm) - Improved File Manager
 - [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager) - Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager
@@ -1515,7 +1515,7 @@
 - [danpros/htmly](https://github.com/danpros/htmly) - Simple and fast databaseless PHP blogging platform, and Flat-File CMS
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.   Previously hosted at nothingprivate.ml
 - [adamdehaven/fetchurls](https://github.com/adamdehaven/fetchurls) - A bash script to spider a site, follow links, and fetch urls (with built-in filtering) into a generated text file.
-- [dagd/dagd](https://github.com/dagd/dagd) - A URL shortener with various other utilities, backed by a custom lightweight framework.
+- [dagd/dagd](https://github.com/dagd/dagd) - A URL shortener with various other utilities, backed by a custom lightweight framework. We are moving to Codeberg: https://codeberg.org/dagd/dagd
 - [jenil/chota](https://github.com/jenil/chota) - A micro (3kb) CSS framework
 
 ## windows 
