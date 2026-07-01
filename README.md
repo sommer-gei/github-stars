@@ -113,6 +113,7 @@
 - [hakimel/stroll.js](https://github.com/hakimel/stroll.js) - CSS3 list scroll effects
 - [visgraph3/demo](https://github.com/visgraph3/demo) - 
 - [OpenBeerMap/OpenBeerMap.github.io](https://github.com/OpenBeerMap/OpenBeerMap.github.io) - Visualiser et éditer les bières pressions disponibles dans les bars.
+- [pro4bib/handbuch-it-in-bibliotheken](https://github.com/pro4bib/handbuch-it-in-bibliotheken) - Arbeitsversion des Handbuchs IT in Bibliotheken
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [fivefilters/readability.php](https://github.com/fivefilters/readability.php) - PHP port of Mozilla's Readability.js
 - [iconmeister/iconmeister.github.io](https://github.com/iconmeister/iconmeister.github.io) - IconMeister.github.io 7000+ SVG icons in one single file Web Component &lt;svg-icon&gt; (core component &lt; 1 kB) No dependencies, no external SVG files
@@ -588,7 +589,6 @@
 ## TeX 
 
 - [unicode-cookbook/cookbook](https://github.com/unicode-cookbook/cookbook) - The Unicode Cookbook for Linguists
-- [pro4bib/handbuch-it-in-bibliotheken](https://github.com/pro4bib/handbuch-it-in-bibliotheken) - Arbeitsversion des Handbuchs IT in Bibliotheken
 - [gbv/cdvost2018](https://github.com/gbv/cdvost2018) - Bibliotheks-APIs der Verbundzentrale des GBV (VZG) für Coding da Vinci Ost 2018
 
 ## TypeScript 
