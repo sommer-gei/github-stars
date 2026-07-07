@@ -98,12 +98,12 @@
 
 ## HTML 
 
+- [jan-bobrowski/lsfont](https://github.com/jan-bobrowski/lsfont) - List glyphs in font on-line.
 - [rottingresearch/rottingresearch](https://github.com/rottingresearch/rottingresearch) - A project devoted to helping academics and researchers provide robust citations and mitigate link rot.
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [dini-ag-kim/stoeberspecs](https://github.com/dini-ag-kim/stoeberspecs) - Werkzeuge und Verfahren zur Standardisierung von OER-Metadaten
 - [dini-ag-kim/modell_lehrplaene](https://github.com/dini-ag-kim/modell_lehrplaene) - 
 - [dini-ag-kim/hs-oer-lom-profil](https://github.com/dini-ag-kim/hs-oer-lom-profil) - LOM for Higher Education OER Repositories
-- [uswds/public-sans](https://github.com/uswds/public-sans) - A strong, neutral, principles-driven, open source typeface for text or display
 - [nicolas-cusan/destyle.css](https://github.com/nicolas-cusan/destyle.css) - Opinionated reset stylesheet that provides a clean slate for styling your html.
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [dini-ag-kim/amb](https://github.com/dini-ag-kim/amb) - A LRMI-/schema.org-based profile for describing educational resources
@@ -174,6 +174,11 @@
 
 ## JavaScript 
 
+- [zachleat/glyphhanger](https://github.com/zachleat/glyphhanger) - Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.
+- [hlorenzi/font-js](https://github.com/hlorenzi/font-js) - 🔠 Visually inspect .otf/.ttf/.otc/.ttc glyphs online, and extract glyph images and metadata through the command line! -- https://hlorenzi.github.io/font-js/
+- [hugeinc/styleguide](https://github.com/hugeinc/styleguide) - A tool to make creating and maintaining style guides easy.
+- [rottingresearch/style-guide](https://github.com/rottingresearch/style-guide) - Official Style Guide for Rotting Research
+- [mdaines/viz-js](https://github.com/mdaines/viz-js) - Graphviz in your browser
 - [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
 - [niklasl/ldtr](https://github.com/niklasl/ldtr) - Linked Data Transcriber
 - [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
@@ -509,6 +514,8 @@
 
 ## Python 
 
+- [notofonts/notofonts.github.io](https://github.com/notofonts/notofonts.github.io) - Distribution site for Noto fonts
+- [unicode-org/last-resort-font](https://github.com/unicode-org/last-resort-font) - Last Resort Font
 - [inveniosoftware/invenio-vocabularies](https://github.com/inveniosoftware/invenio-vocabularies) - Invenio module for managing vocabularies.
 - [ArchiveTeam/terroroftinytown](https://github.com/ArchiveTeam/terroroftinytown) - URLTeam's second generation of URL shortener archiving tools
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
@@ -569,6 +576,7 @@
 - [desecsecurity/parsing_html_bash](https://github.com/desecsecurity/parsing_html_bash) - Script para Parsing HTML
 - [davegallant/homelab](https://github.com/davegallant/homelab) - configuration for self-hosted services
 - [programmfabrik/fylr-install](https://github.com/programmfabrik/fylr-install) - This repository contains different installation methods for the fylr.
+- [uswds/public-sans](https://github.com/uswds/public-sans) - A strong, neutral, principles-driven, open source typeface for text or display
 - [atmire/COUNTER-Robots](https://github.com/atmire/COUNTER-Robots) - Official list of user agents that are regarded as robots/spiders by COUNTER
 - [chris-marsh/pureline](https://github.com/chris-marsh/pureline) - A Pure Bash Powerline PS1 Command Prompt
 - [adamdehaven/fetchurls](https://github.com/adamdehaven/fetchurls) - A bash script to spider a site, follow links, and fetch urls (with built-in filtering) into a generated text file.
@@ -624,6 +632,7 @@
 
 ## Vue 
 
+- [zazuko/rdf-sketch](https://github.com/zazuko/rdf-sketch) - Sketch RDF in the web browser with immediate visualization
 - [layoutit/layoutit-grid](https://github.com/layoutit/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [devmount/third-stats](https://github.com/devmount/third-stats) - Thunderbird add-on turning your emails into beautifully visualized email account stats.
 - [DH-Center-Tuebingen/ThesauRex](https://github.com/DH-Center-Tuebingen/ThesauRex) - Web based editor for SKOS based ontologies
