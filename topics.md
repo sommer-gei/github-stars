@@ -132,6 +132,7 @@
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [shell](#shell)
+- [sketch](#sketch)
 - [software](#software)
 - [spring-boot](#spring-boot)
 - [sql](#sql)
@@ -155,6 +156,7 @@
 - [web-components](#web-components)
 - [web-development](#web-development)
 - [web3](#web3)
+- [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
@@ -305,6 +307,7 @@
 
 ## command-line 
 
+- [hlorenzi/font-js](https://github.com/hlorenzi/font-js) - 🔠 Visually inspect .otf/.ttf/.otc/.ttc glyphs online, and extract glyph images and metadata through the command line! -- https://hlorenzi.github.io/font-js/
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [ludovicianul/hq](https://github.com/ludovicianul/hq) - lightweight command line HTML processor using CSS and XPath selectors
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -498,6 +501,10 @@
 
 ## font 
 
+- [unicode-org/last-resort-font](https://github.com/unicode-org/last-resort-font) - Last Resort Font
+- [zachleat/glyphhanger](https://github.com/zachleat/glyphhanger) - Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.
+- [hlorenzi/font-js](https://github.com/hlorenzi/font-js) - 🔠 Visually inspect .otf/.ttf/.otc/.ttc glyphs online, and extract glyph images and metadata through the command line! -- https://hlorenzi.github.io/font-js/
+- [jan-bobrowski/lsfont](https://github.com/jan-bobrowski/lsfont) - List glyphs in font on-line.
 - [uswds/public-sans](https://github.com/uswds/public-sans) - A strong, neutral, principles-driven, open source typeface for text or display
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [jpswalsh/academicons](https://github.com/jpswalsh/academicons) - An icon font for academics
@@ -687,6 +694,7 @@
 
 ## javascript 
 
+- [mdaines/viz-js](https://github.com/mdaines/viz-js) - Graphviz in your browser
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
@@ -918,6 +926,9 @@
 
 ## others 
 
+- [notofonts/notofonts.github.io](https://github.com/notofonts/notofonts.github.io) - Distribution site for Noto fonts
+- [hugeinc/styleguide](https://github.com/hugeinc/styleguide) - A tool to make creating and maintaining style guides easy.
+- [rottingresearch/style-guide](https://github.com/rottingresearch/style-guide) - Official Style Guide for Rotting Research
 - [metafacture/metafacture-core](https://github.com/metafacture/metafacture-core) - Core package of the Metafacture tool suite for metadata processing.
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
 - [inveniosoftware/invenio-vocabularies](https://github.com/inveniosoftware/invenio-vocabularies) - Invenio module for managing vocabularies.
@@ -1384,6 +1395,10 @@
 - [neverpanic/google-font-download](https://github.com/neverpanic/google-font-download) - Locally host Google's web fonts
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
+## sketch 
+
+- [zazuko/rdf-sketch](https://github.com/zazuko/rdf-sketch) - Sketch RDF in the web browser with immediate visualization
+
 ## software 
 
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
@@ -1471,6 +1486,7 @@
 
 ## visualization 
 
+- [zazuko/rdf-sketch](https://github.com/zazuko/rdf-sketch) - Sketch RDF in the web browser with immediate visualization
 - [VisualDataWeb/WebVOWL](https://github.com/VisualDataWeb/WebVOWL) - Visualizing ontologies on the Web
 - [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 - [DH-Center-Tuebingen/dbWebGen](https://github.com/DH-Center-Tuebingen/dbWebGen) - Database Web Forms Generator
@@ -1492,6 +1508,7 @@
 
 ## web 
 
+- [hlorenzi/font-js](https://github.com/hlorenzi/font-js) - 🔠 Visually inspect .otf/.ttf/.otc/.ttc glyphs online, and extract glyph images and metadata through the command line! -- https://hlorenzi.github.io/font-js/
 - [wet-boew/wet-boew](https://github.com/wet-boew/wet-boew) - Web Experience Toolkit (WET): Open source code library for building innovative websites that are accessible, usable, interoperable, mobile-friendly and multilingual. This collaborative open source pro
 - [pretix/pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
 - [jenil/chota](https://github.com/jenil/chota) - A micro (3kb) CSS framework
@@ -1507,6 +1524,11 @@
 ## web3 
 
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
+
+## webapp 
+
+- [hlorenzi/font-js](https://github.com/hlorenzi/font-js) - 🔠 Visually inspect .otf/.ttf/.otc/.ttc glyphs online, and extract glyph images and metadata through the command line! -- https://hlorenzi.github.io/font-js/
+- [jan-bobrowski/lsfont](https://github.com/jan-bobrowski/lsfont) - List glyphs in font on-line.
 
 ## website 
 
