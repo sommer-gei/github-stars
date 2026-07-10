@@ -388,7 +388,7 @@
 - [hyn/frontmatter](https://github.com/hyn/frontmatter) - Markdown with meta frontmatters of type json, toml and yaml
 - [jfcherng/php-diff](https://github.com/jfcherng/php-diff) - A comprehensive library for generating differences between two strings in multiple formats (unified, side by side HTML etc).
 - [dauxio/daux.io](https://github.com/dauxio/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer f
-- [addwiki/mediawiki-api](https://github.com/addwiki/mediawiki-api) - Library with services for interacting with the Mediawiki API, [READ-ONLY] split from https://github.com/addwiki/addwiki
+- [addwiki/mediawiki-api](https://github.com/addwiki/mediawiki-api) - ARCHIVED: Now contained within https://github.com/addshore/addwiki
 - [PressForward/pressforward](https://github.com/PressForward/pressforward) - PressForward is a free plugin that provides an editorial workflow for content aggregation and curation within the WordPress dashboard. It is designed for bloggers and editorial teams who wish to colle
 - [renanbr/bibtex-parser](https://github.com/renanbr/bibtex-parser) - BibTex Parser provides an API to read .bib files programmatically.
 - [WapplerSystems/ws_scss](https://github.com/WapplerSystems/ws_scss) - SASS Compiler for TYPO3
@@ -416,7 +416,7 @@
 - [rinvex/countries](https://github.com/rinvex/countries) - Rinvex Country is a simple and lightweight package for retrieving country details with flexibility. A whole bunch of data including name, demonym, capital, iso codes, dialling codes, geo data, currenc
 - [salarmehr/cosmopolitan](https://github.com/salarmehr/cosmopolitan) - 🌐 Super efficient app internationalization
 - [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming pattern
-- [addwiki/addwiki](https://github.com/addwiki/addwiki) - Monorepo containing all addwiki libraries, packages and applications
+- [addshore/addwiki](https://github.com/addshore/addwiki) - libraries, packages and applications for use with MediaWiki, Wikipedia, Wikibase and Wikidata in PHP
 - [NatLibFi/Skosmos](https://github.com/NatLibFi/Skosmos) - Thesaurus and controlled vocabulary browser using SKOS and SPARQL
 - [gbv/jskos-php-examples](https://github.com/gbv/jskos-php-examples) - JSKOS-API Wrappers and other terminology applications based on JSKOS
 - [oomphinc/composer-installers-extender](https://github.com/oomphinc/composer-installers-extender) - Extend the composer/installers plugin to accept any arbitrary package type.
