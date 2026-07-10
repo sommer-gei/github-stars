@@ -160,6 +160,7 @@
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
+- [workflow](#workflow)
 - [xml](#xml)
 - [youtube](#youtube)
 
@@ -199,6 +200,7 @@
 - [php-curl-class/php-curl-class](https://github.com/php-curl-class/php-curl-class) - PHP Curl Class makes it easy to send HTTP requests and integrate with web APIs
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [codeforberlin/opacapi](https://github.com/codeforberlin/opacapi) - A web API wrapper for the opacclient library based on Spring Boot.
+- [addshore/addwiki](https://github.com/addshore/addwiki) - libraries, packages and applications for use with MediaWiki, Wikipedia, Wikibase and Wikidata in PHP
 - [kantord/emuto](https://github.com/kantord/emuto) - manipulate JSON files
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [GitLabPHP/Client](https://github.com/GitLabPHP/Client) - GitLab API v4 client for PHP
@@ -791,6 +793,7 @@
 
 - [meyfa/php-svg](https://github.com/meyfa/php-svg) - Vector graphics (SVG) library for PHP
 - [benibela/videlibri](https://github.com/benibela/videlibri) - :books: Cross-platform library client to automate any OPAC and library catalog from your local device, e.g. for renewing of borrowed books or searching for books available in the library in automated 
+- [addshore/addwiki](https://github.com/addshore/addwiki) - libraries, packages and applications for use with MediaWiki, Wikipedia, Wikibase and Wikidata in PHP
 - [gbv/jskos-php](https://github.com/gbv/jskos-php) - JSKOS data model in PHP
 
 ## linux 
@@ -996,7 +999,7 @@
 - [hakimel/forkit.js](https://github.com/hakimel/forkit.js) - an animated GitHub ribbon
 - [tillk/BibsOnGitHub](https://github.com/tillk/BibsOnGitHub) - Bibliothekarische Organisationen und Personen auf GitHub
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
-- [addwiki/mediawiki-api](https://github.com/addwiki/mediawiki-api) - Library with services for interacting with the Mediawiki API, [READ-ONLY] split from https://github.com/addwiki/addwiki
+- [addwiki/mediawiki-api](https://github.com/addwiki/mediawiki-api) - ARCHIVED: Now contained within https://github.com/addshore/addwiki
 - [PressForward/pressforward](https://github.com/PressForward/pressforward) - PressForward is a free plugin that provides an editorial workflow for content aggregation and curation within the WordPress dashboard. It is designed for bloggers and editorial teams who wish to colle
 - [elektrobohemian/StabiHacks](https://github.com/elektrobohemian/StabiHacks) - Various utilities to deal with metadata and content provided by the Berlin State Library/Staatsbibliothek zu Berlin
 - [visgraph3/demo](https://github.com/visgraph3/demo) - 
@@ -1035,7 +1038,6 @@
 - [logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) - Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228
 - [guardian/consent-management-platform](https://github.com/guardian/consent-management-platform) - Guardian consent management
 - [felixlohmeier/seminar-praxis-der-digitalen-bibliothek](https://github.com/felixlohmeier/seminar-praxis-der-digitalen-bibliothek) - Seminar "Praxis der digitalen Bibliothek" (Sommersemester 2017) an der Hochschule Hannover, Studiengänge Informationsmanagement und I. berufsbegleitend an der Fakultät III - Medien, Information und De
-- [addwiki/addwiki](https://github.com/addwiki/addwiki) - Monorepo containing all addwiki libraries, packages and applications
 - [sozi-projects/Sozi](https://github.com/sozi-projects/Sozi) - A "zooming" presentation editor
 - [gbv/jskos-php-examples](https://github.com/gbv/jskos-php-examples) - JSKOS-API Wrappers and other terminology applications based on JSKOS
 - [DataTables/Buttons](https://github.com/DataTables/Buttons) - Buttons is an extension for DataTables that adds control buttons to the table.
@@ -1139,7 +1141,6 @@
 - [iconify/icon-sets](https://github.com/iconify/icon-sets) - 200+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically several times a week.
 - [weixsong/elasticlunr.js](https://github.com/weixsong/elasticlunr.js) - Based on lunr.js, but more flexible and customized.
 - [gbv/jskos](https://github.com/gbv/jskos) - JSKOS data format for Knowledge Organization Systems
-- [intranda/goobi-workflow](https://github.com/intranda/goobi-workflow) - Goobi workflow - Workflow management software for digitisation projects used in more than 80 cultural heritage institutions in at least 18 countries.
 - [gbv/findex-config](https://github.com/gbv/findex-config) - Solr configuration of findex.gbv.de
 - [gbv/format.gbv.de](https://github.com/gbv/format.gbv.de) - Formatdatenbank
 - [Zeitschriftendatenbank/pica3plus](https://github.com/Zeitschriftendatenbank/pica3plus) - Konkordanz Tabelle PICA3/PICA+ für die ZDB
@@ -1558,6 +1559,10 @@
 - [dsifford/academic-bloggers-toolkit](https://github.com/dsifford/academic-bloggers-toolkit) - WordPress plugin providing an all-in-one solution for effective academic blogging.
 - [tomhrtly/bulmawp](https://github.com/tomhrtly/bulmawp) - A free WordPress starter theme based on the Bulma CSS framework.
 - [trewknowledge/GDPR](https://github.com/trewknowledge/GDPR) - This plugin is meant to assist a Controller, Data Processor, and Data Protection Officer (DPO) with efforts to meet the obligations and rights enacted under the GDPR.
+
+## workflow 
+
+- [intranda/goobi-workflow](https://github.com/intranda/goobi-workflow) - Goobi workflow - Workflow management software for digitisation projects used in more than 80 cultural heritage institutions in at least 18 countries.
 
 ## xml 
 
