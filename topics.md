@@ -163,6 +163,7 @@
 - [workflow](#workflow)
 - [xml](#xml)
 - [youtube](#youtube)
+- [zsh](#zsh)
 
 ## agents 
 
@@ -247,6 +248,7 @@
 
 ## bash 
 
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [chris-marsh/pureline](https://github.com/chris-marsh/pureline) - A Pure Bash Powerline PS1 Command Prompt
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -1392,6 +1394,7 @@
 
 ## shell 
 
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [chris-marsh/pureline](https://github.com/chris-marsh/pureline) - A Pure Bash Powerline PS1 Command Prompt
 - [neverpanic/google-font-download](https://github.com/neverpanic/google-font-download) - Locally host Google's web fonts
@@ -1579,6 +1582,10 @@
 ## youtube 
 
 - [sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin.
+
+## zsh 
+
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 
 
 ## License
