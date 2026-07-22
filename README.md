@@ -118,7 +118,6 @@
 - [OpenBeerMap/OpenBeerMap.github.io](https://github.com/OpenBeerMap/OpenBeerMap.github.io) - Visualiser et éditer les bières pressions disponibles dans les bars.
 - [pro4bib/handbuch-it-in-bibliotheken](https://github.com/pro4bib/handbuch-it-in-bibliotheken) - Arbeitsversion des Handbuchs IT in Bibliotheken
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-- [fivefilters/readability.php](https://github.com/fivefilters/readability.php) - PHP port of Mozilla's Readability.js
 - [iconmeister/iconmeister.github.io](https://github.com/iconmeister/iconmeister.github.io) - IconMeister.github.io 7000+ SVG icons in one single file Web Component &lt;svg-icon&gt; (core component &lt; 1 kB) No dependencies, no external SVG files
 - [vanilla/htmlawed](https://github.com/vanilla/htmlawed) - Composer-compatible fork of the htmLawed library to purify & filter HTML.
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
@@ -416,6 +415,7 @@
 - [hidehalo/nanoid-php](https://github.com/hidehalo/nanoid-php) - PHP implementation of Nanoid, secure URL-friendly unique ID generator
 - [cuny-academic-commons/commons-in-a-box](https://github.com/cuny-academic-commons/commons-in-a-box) - Commons In A Box - A suite of community and collaboration tools for WordPress, designed especially for academic communities
 - [halaxa/json-machine](https://github.com/halaxa/json-machine) - Efficient, easy-to-use, and fast PHP JSON stream parser
+- [fivefilters/readability.php](https://github.com/fivefilters/readability.php) - PHP port of Mozilla's Readability.js
 - [geocoder-php/Geocoder](https://github.com/geocoder-php/Geocoder) - The most featured Geocoder library written in PHP.
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - A simple PHP GitHub API client, Object Oriented, tested and documented.
 - [colinodell/json5](https://github.com/colinodell/json5) - UTF-8 compatible JSON5 parser for PHP
