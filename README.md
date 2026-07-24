@@ -121,7 +121,6 @@
 - [iconmeister/iconmeister.github.io](https://github.com/iconmeister/iconmeister.github.io) - IconMeister.github.io 7000+ SVG icons in one single file Web Component &lt;svg-icon&gt; (core component &lt; 1 kB) No dependencies, no external SVG files
 - [vanilla/htmlawed](https://github.com/vanilla/htmlawed) - Composer-compatible fork of the htmLawed library to purify & filter HTML.
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
-- [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [benibela/videlibri](https://github.com/benibela/videlibri) - :books: Cross-platform library client to automate any OPAC and library catalog from your local device, e.g. for renewing of borrowed books or searching for books available in the library in automated 
 - [axel-klinger/BibsOnGitHub](https://github.com/axel-klinger/BibsOnGitHub) - Libraries on GitHub
 - [metafizzy/isotope](https://github.com/metafizzy/isotope) - :revolving_hearts: Filter & sort magical layouts
@@ -230,10 +229,12 @@
 - [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
+- [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [sozi-projects/Sozi](https://github.com/sozi-projects/Sozi) - A "zooming" presentation editor
 - [gbv/jskos-server](https://github.com/gbv/jskos-server) - Web service to access JSKOS data
 - [AmauriC/tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - Get a compliant and accessible cookie banner
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
+- [devmount/third-stats](https://github.com/devmount/third-stats) - Thunderbird add-on turning your emails into beautifully visualized email account stats.
 - [hbunke/BibsOnGitHub](https://github.com/hbunke/BibsOnGitHub) - Library Institutions and Persons on GitHub
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [rielc/geivis](https://github.com/rielc/geivis) - a webbased visualization of schoolbooks for the Georg-Eckert-Institut
@@ -640,7 +641,6 @@
 
 - [zazuko/rdf-sketch](https://github.com/zazuko/rdf-sketch) - Sketch RDF in the web browser with immediate visualization
 - [layoutit/layoutit-grid](https://github.com/layoutit/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
-- [devmount/third-stats](https://github.com/devmount/third-stats) - Thunderbird add-on turning your emails into beautifully visualized email account stats.
 - [DH-Center-Tuebingen/ThesauRex](https://github.com/DH-Center-Tuebingen/ThesauRex) - Web based editor for SKOS based ontologies
 - [gbv/cocoda](https://github.com/gbv/cocoda) - A web-based tool for creating mappings between knowledge organization systems.
 - [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
