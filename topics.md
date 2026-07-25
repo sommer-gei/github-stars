@@ -786,6 +786,7 @@
 
 ## laravel 
 
+- [CodeWithDennis/larament](https://github.com/CodeWithDennis/larament) - A bloat-free starter kit for Laravel 13.x with FilamentPHP 5.x pre-configured. Only essential development tools included.
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
@@ -1209,6 +1210,7 @@
 
 ## php 
 
+- [CodeWithDennis/larament](https://github.com/CodeWithDennis/larament) - A bloat-free starter kit for Laravel 13.x with FilamentPHP 5.x pre-configured. Only essential development tools included.
 - [tursodatabase/turso-client-php](https://github.com/tursodatabase/turso-client-php) - Turso + PHP - libSQL Extension for PHP (Community SDK)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [code-lts/doctum](https://github.com/code-lts/doctum) - A PHP API documentation generator
