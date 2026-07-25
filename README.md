@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -36,6 +37,10 @@
 - [XQuery](#xquery)
 - [XSLT](#xslt)
 - [mIRC Script](#mirc-script)
+
+## Blade 
+
+- [CodeWithDennis/larament](https://github.com/CodeWithDennis/larament) - A bloat-free starter kit for Laravel 13.x with FilamentPHP 5.x pre-configured. Only essential development tools included.
 
 ## C 
 
