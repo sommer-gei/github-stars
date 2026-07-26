@@ -225,7 +225,7 @@
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
-- [LeaVerou/awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
+- [nudeui/awesomplete](https://github.com/nudeui/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 - [gbv/pica-data-js](https://github.com/gbv/pica-data-js) - EcmaScript utilities to process PICA data
 - [Zeichen32/PiwikCustomOptOut](https://github.com/Zeichen32/PiwikCustomOptOut) - Create your own piwik opt-out iframe css styles
 - [jimschubert/NewTab-Redirect](https://github.com/jimschubert/NewTab-Redirect) - NewTab Redirect! is an extension for Google Chrome which allows the user to replace the page displayed when creating a new tab.
