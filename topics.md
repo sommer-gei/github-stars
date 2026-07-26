@@ -1025,7 +1025,7 @@
 - [tamentis/cartman](https://github.com/tamentis/cartman) - Command line Trac tools
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [semsol/arc2](https://github.com/semsol/arc2) - ARC RDF Classes for PHP
-- [LeaVerou/awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
+- [nudeui/awesomplete](https://github.com/nudeui/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 - [cuny-academic-commons/commons-in-a-box](https://github.com/cuny-academic-commons/commons-in-a-box) - Commons In A Box - A suite of community and collaboration tools for WordPress, designed especially for academic communities
 - [gbv/pica-data-js](https://github.com/gbv/pica-data-js) - EcmaScript utilities to process PICA data
 - [metafacture/metafacture-documentation](https://github.com/metafacture/metafacture-documentation) - The central place for documentation about metafacture
