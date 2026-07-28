@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
@@ -37,6 +38,10 @@
 - [XQuery](#xquery)
 - [XSLT](#xslt)
 - [mIRC Script](#mirc-script)
+
+## Astro 
+
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## Blade 
 
@@ -122,7 +127,6 @@
 - [visgraph3/demo](https://github.com/visgraph3/demo) - 
 - [OpenBeerMap/OpenBeerMap.github.io](https://github.com/OpenBeerMap/OpenBeerMap.github.io) - Visualiser et éditer les bières pressions disponibles dans les bars.
 - [pro4bib/handbuch-it-in-bibliotheken](https://github.com/pro4bib/handbuch-it-in-bibliotheken) - Arbeitsversion des Handbuchs IT in Bibliotheken
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [iconmeister/iconmeister.github.io](https://github.com/iconmeister/iconmeister.github.io) - IconMeister.github.io 7000+ SVG icons in one single file Web Component &lt;svg-icon&gt; (core component &lt; 1 kB) No dependencies, no external SVG files
 - [vanilla/htmlawed](https://github.com/vanilla/htmlawed) - Composer-compatible fork of the htmLawed library to purify & filter HTML.
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
