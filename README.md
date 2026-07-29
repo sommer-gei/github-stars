@@ -236,7 +236,7 @@
 - [mjackson/resolve-pathname](https://github.com/mjackson/resolve-pathname) - Resolve URL pathnames using JavaScript
 - [mjackson/http-client](https://github.com/mjackson/http-client) - Compose HTTP clients using JavaScript's fetch API
 - [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [sozi-projects/Sozi](https://github.com/sozi-projects/Sozi) - A "zooming" presentation editor
