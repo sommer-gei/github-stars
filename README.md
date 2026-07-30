@@ -223,7 +223,7 @@
 - [orchidjs/tom-select](https://github.com/orchidjs/tom-select) - Tom Select is a lightweight (~16kb gzipped) hybrid of a textbox and select box. Forked from selectize.js to provide a framework agnostic autocomplete widget with native-feeling keyboard navigation. Us
 - [barisesen/github-timeline](https://github.com/barisesen/github-timeline) - View other users' timeline
 - [smarek/jquery-chained-selects](https://github.com/smarek/jquery-chained-selects) - jQuery plugin for displaying chained selects populated from JSON hierarchical data
-- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [gbv/pica-editor](https://github.com/gbv/pica-editor) - Vue component to inspect and edit PICA+ records
 - [pro4bib/pica](https://github.com/pro4bib/pica) - Einführung in die Verarbeitung von PICA-Daten
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
