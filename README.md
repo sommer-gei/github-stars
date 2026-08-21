@@ -254,7 +254,6 @@
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [kantord/emuto](https://github.com/kantord/emuto) - manipulate JSON files
 - [boschni/json-merger](https://github.com/boschni/json-merger) - Merge JSON files and objects with indicators like $import $remove $replace $merge
-- [misterunknown/ifm](https://github.com/misterunknown/ifm) - Improved File Manager
 - [kiprotect/klaro](https://github.com/kiprotect/klaro) - Klaro Privacy Manager. An open-source, privacy-friendly & compliant consent manager for your website.
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [openwisp/netjsongraph.js](https://github.com/openwisp/netjsongraph.js) - NetJSON NetworkGraph visualizer.
@@ -445,6 +444,7 @@
 - [mkucej/i-librarian-free](https://github.com/mkucej/i-librarian-free) - I, Librarian - open-source version of  a PDF managing SaaS.
 - [SajadKarim/vufind](https://github.com/SajadKarim/vufind) - A library resource discovery portal designed and developed for libraries by libraries
 - [catchpoint/WebPageTest](https://github.com/catchpoint/WebPageTest) - Official repository for WebPageTest
+- [misterunknown/ifm](https://github.com/misterunknown/ifm) - Improved File Manager
 - [filegator/filegator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager
 - [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager) - Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager
 - [tematres/TemaTres-Vocabulary-Server](https://github.com/tematres/TemaTres-Vocabulary-Server) - Web application for management formal representations of knowledge, like controlled vocabularies, taxonomies, thesauri and glossaries
