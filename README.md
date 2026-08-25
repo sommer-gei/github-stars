@@ -111,6 +111,7 @@
 
 ## HTML 
 
+- [tutunak/awesome-url-shortener](https://github.com/tutunak/awesome-url-shortener) - A curated list of URL shorteners — hosted services, self-hosted open-source projects, and what's been discontinued.
 - [jan-bobrowski/lsfont](https://github.com/jan-bobrowski/lsfont) - List glyphs in font on-line.
 - [rottingresearch/rottingresearch](https://github.com/rottingresearch/rottingresearch) - A project devoted to helping academics and researchers provide robust citations and mitigate link rot.
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
