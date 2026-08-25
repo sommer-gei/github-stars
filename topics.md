@@ -940,6 +940,7 @@
 
 ## others 
 
+- [tutunak/awesome-url-shortener](https://github.com/tutunak/awesome-url-shortener) - A curated list of URL shorteners — hosted services, self-hosted open-source projects, and what's been discontinued.
 - [rominicky/miscellaneous](https://github.com/rominicky/miscellaneous) - Repositorio para alojar diferentes proyectos
 - [notofonts/notofonts.github.io](https://github.com/notofonts/notofonts.github.io) - Distribution site for Noto fonts
 - [hugeinc/styleguide](https://github.com/hugeinc/styleguide) - A tool to make creating and maintaining style guides easy.
