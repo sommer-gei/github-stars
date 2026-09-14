@@ -1062,7 +1062,6 @@
 - [DataTables/Buttons](https://github.com/DataTables/Buttons) - Buttons is an extension for DataTables that adds control buttons to the table.
 - [oomphinc/composer-installers-extender](https://github.com/oomphinc/composer-installers-extender) - Extend the composer/installers plugin to accept any arbitrary package type.
 - [gbv/jskos-server](https://github.com/gbv/jskos-server) - Web service to access JSKOS data
-- [AmauriC/tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - Get a compliant and accessible cookie banner
 - [tomkeays/doi](https://github.com/tomkeays/doi) - PHP scripts that pull bibliographic data from the CrossRef DOI resolver using content negotiation techniques
 - [hbunke/BibsOnGitHub](https://github.com/hbunke/BibsOnGitHub) - Library Institutions and Persons on GitHub
 - [axel-klinger/BibsOnGitHub](https://github.com/axel-klinger/BibsOnGitHub) - Libraries on GitHub
@@ -1309,6 +1308,7 @@
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.   Previously hosted at nothingprivate.ml
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [AmauriC/tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - Open-source JavaScript cookie consent manager for GDPR / RGPD. Customizable banner, service-level controls and Google Consent Mode v2 support.
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 
 ## productivity 
