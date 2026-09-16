@@ -115,6 +115,7 @@
 - [jan-bobrowski/lsfont](https://github.com/jan-bobrowski/lsfont) - List glyphs in font on-line.
 - [rottingresearch/rottingresearch](https://github.com/rottingresearch/rottingresearch) - A project devoted to helping academics and researchers provide robust citations and mitigate link rot.
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
+- [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
 - [dini-ag-kim/stoeberspecs](https://github.com/dini-ag-kim/stoeberspecs) - Werkzeuge und Verfahren zur Standardisierung von OER-Metadaten
 - [dini-ag-kim/modell_lehrplaene](https://github.com/dini-ag-kim/modell_lehrplaene) - 
 - [dini-ag-kim/hs-oer-lom-profil](https://github.com/dini-ag-kim/hs-oer-lom-profil) - LOM for Higher Education OER Repositories
@@ -191,7 +192,6 @@
 - [mdaines/viz-js](https://github.com/mdaines/viz-js) - Graphviz in your browser
 - [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
 - [niklasl/ldtr](https://github.com/niklasl/ldtr) - Linked Data Transcriber
-- [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
 - [funbox/beatrix](https://github.com/funbox/beatrix) - A tool to chop off useless fonts glyphs and convert TTF/OTF into WOFF & WOFF2
 - [skohub-io/skohub-vocabs](https://github.com/skohub-io/skohub-vocabs) - A lightweight tool to publish SKOS Vocabularies
 - [asvd/syncscroll](https://github.com/asvd/syncscroll) - scroll two or more areas simultaneously
@@ -220,7 +220,6 @@
 - [Leaflet/Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) - Marker Clustering plugin for Leaflet
 - [stefanocudini/leaflet-search](https://github.com/stefanocudini/leaflet-search) - Search stuff in a Leaflet map
 - [pointhi/leaflet-color-markers](https://github.com/pointhi/leaflet-color-markers) - color variations of the standard leaflet marker
-- [geoman-io/leaflet-geoman](https://github.com/geoman-io/leaflet-geoman) - 🍂🗺️ The most powerful leaflet plugin for drawing and editing geometry layers
 - [orchidjs/tom-select](https://github.com/orchidjs/tom-select) - Tom Select is a lightweight (~16kb gzipped) hybrid of a textbox and select box. Forked from selectize.js to provide a framework agnostic autocomplete widget with native-feeling keyboard navigation. Us
 - [barisesen/github-timeline](https://github.com/barisesen/github-timeline) - View other users' timeline
 - [smarek/jquery-chained-selects](https://github.com/smarek/jquery-chained-selects) - jQuery plugin for displaying chained selects populated from JSON hierarchical data
@@ -631,6 +630,7 @@
 - [rhizomik/rhizomerEye](https://github.com/rhizomik/rhizomerEye) - Client part of the new version of the Rhizomer faceted browser and visualization tool for semantic linked data.
 - [YizYah/neo-forgery](https://github.com/YizYah/neo-forgery) - 
 - [jqlang/playground](https://github.com/jqlang/playground) - A jq playground built with Next.js
+- [geoman-io/leaflet-geoman](https://github.com/geoman-io/leaflet-geoman) - 🍂🗺️ The most powerful leaflet plugin for drawing and editing geometry layers
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based web archiving crawler in a single Docker container
