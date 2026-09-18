@@ -194,6 +194,7 @@
 - [niklasl/ldtr](https://github.com/niklasl/ldtr) - Linked Data Transcriber
 - [funbox/beatrix](https://github.com/funbox/beatrix) - A tool to chop off useless fonts glyphs and convert TTF/OTF into WOFF & WOFF2
 - [skohub-io/skohub-vocabs](https://github.com/skohub-io/skohub-vocabs) - A lightweight tool to publish SKOS Vocabularies
+- [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [asvd/syncscroll](https://github.com/asvd/syncscroll) - scroll two or more areas simultaneously
 - [vibrates09/syncscroll](https://github.com/vibrates09/syncscroll) - scroll two or more areas simultaneously
 - [jeffchiou/coordiscroll](https://github.com/jeffchiou/coordiscroll) - Adaptable synchronized scrolling of DOM elements using the Publish-Subscribe pattern. Vanilla JS. In alpha.
@@ -583,7 +584,6 @@
 
 ## SCSS 
 
-- [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [ifip-summerschool/ifip-summerschool.github.io](https://github.com/ifip-summerschool/ifip-summerschool.github.io) - 
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 
