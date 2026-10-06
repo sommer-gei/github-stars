@@ -104,6 +104,7 @@
 - [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
 - [sibprogrammer/xq](https://github.com/sibprogrammer/xq) - Command-line XML and HTML beautifier and content extractor
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
+- [davegallant/homelab](https://github.com/davegallant/homelab) - configuration for self-hosted services
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -592,7 +593,6 @@
 - [microsoft/mdatp-xplat](https://github.com/microsoft/mdatp-xplat) - Microsoft Defender for macOS/Linux - config samples, auxiliary tools
 - [ludovicianul/hq](https://github.com/ludovicianul/hq) - lightweight command line HTML processor using CSS and XPath selectors
 - [desecsecurity/parsing_html_bash](https://github.com/desecsecurity/parsing_html_bash) - Script para Parsing HTML
-- [davegallant/homelab](https://github.com/davegallant/homelab) - configuration for self-hosted services
 - [programmfabrik/fylr-install](https://github.com/programmfabrik/fylr-install) - This repository contains different installation methods for the fylr.
 - [uswds/public-sans](https://github.com/uswds/public-sans) - A strong, neutral, principles-driven, open source typeface for text or display
 - [atmire/COUNTER-Robots](https://github.com/atmire/COUNTER-Robots) - Official list of user agents that are regarded as robots/spiders by COUNTER
@@ -619,6 +619,7 @@
 
 ## TypeScript 
 
+- [DSpace/dspace-angular](https://github.com/DSpace/dspace-angular) - DSpace User Interface built on Angular
 - [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A powerful tool for viewing, filtering, and transforming tabular data files (CSV, JSON, XLSX etc.) with JavaScript.
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
