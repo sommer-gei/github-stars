@@ -158,7 +158,7 @@
 - [metafacture/metafacture-core](https://github.com/metafacture/metafacture-core) - Core package of the Metafacture tool suite for metadata processing.
 - [veraPDF/veraPDF-library](https://github.com/veraPDF/veraPDF-library) - Industry supported, open source PDF/A validation library
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-- [urlaubsverwaltung/urlaubsverwaltung](https://github.com/urlaubsverwaltung/urlaubsverwaltung) - Schluss mit Papierchaos und langweiliger Software. Wir zeigen dir, dass Urlaubsverwaltung auch Spaß machen kann.
+- [urlaubsverwaltung/urlaubsverwaltung](https://github.com/urlaubsverwaltung/urlaubsverwaltung) - Open-source, self-hosted leave and absence management: vacation requests, sick notes, overtime. Urlaubsverwaltung für Teams.
 - [DSpace/DSpace](https://github.com/DSpace/DSpace) - (Official) The DSpace digital asset management system that powers your Institutional Repository
 - [ubrostock/signaturetikettendruck](https://github.com/ubrostock/signaturetikettendruck) - create and print shelfmark labels from online catalogue
 - [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
