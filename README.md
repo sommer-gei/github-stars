@@ -367,7 +367,6 @@
 - [kba/awesome-ocr](https://github.com/kba/awesome-ocr) - Links to awesome OCR projects
 - [MenaraSolutions/geographer-de](https://github.com/MenaraSolutions/geographer-de) - German translations for Geographer library
 - [CrossRef/rest-api-doc](https://github.com/CrossRef/rest-api-doc) - Documentation for Crossref's REST API. For questions or suggestions, see https://community.crossref.org/
-- [YOURLS/awesome](https://github.com/YOURLS/awesome) - 🎉 A curated list of awesome things related to YOURLS
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [qnap-dev/container-apps](https://github.com/qnap-dev/container-apps) - 
@@ -552,6 +551,7 @@
 - [clarin-eric/monitoring](https://github.com/clarin-eric/monitoring) - Monitoring configuration for networked CLARIN services and applications.
 - [mozilla/pontoon](https://github.com/mozilla/pontoon) - Mozilla's Localization Platform
 - [CenterForOpenScience/osf.io](https://github.com/CenterForOpenScience/osf.io) - Facilitating Open Science
+- [YOURLS/awesome](https://github.com/YOURLS/awesome) - 🎉 A curated list of awesome things related to YOURLS
 - [pretix/pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
 - [pietsch/oval](https://github.com/pietsch/oval) - BASE OAI-PMH Validator back end.
 - [ehanson8/dspace-data-collection](https://github.com/ehanson8/dspace-data-collection) - Scripts for extracting DSpace data
