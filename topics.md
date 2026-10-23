@@ -784,7 +784,7 @@
 - [json-editor/json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
 - [kantord/emuto](https://github.com/kantord/emuto) - manipulate JSON files
 - [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK.
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
@@ -1090,7 +1090,7 @@
 - [DH-Center-Tuebingen/ThesauRex](https://github.com/DH-Center-Tuebingen/ThesauRex) - Web based editor for SKOS based ontologies
 - [clarin-eric/VLO](https://github.com/clarin-eric/VLO) - Virtual Language Observatory
 - [matomo-org/plugin-LoginLdap](https://github.com/matomo-org/plugin-LoginLdap) - LDAP authentication and synchronization for Matomo.
-- [web-token/jwt-easy](https://github.com/web-token/jwt-easy) - [READ ONLY] JWT made easy
+- [web-token/jwt-easy](https://github.com/web-token/jwt-easy) - [READ ONLY] A simplified interface over JWT Framework.
 - [gbv/publikationslisten-php](https://github.com/gbv/publikationslisten-php) - PHP-Bibliothek zur Erstellung von Publikationslisten aus GBV-Katalogen
 - [CDLUC3/stash](https://github.com/CDLUC3/stash) - A UC3 application framework for storing and sharing research data
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
@@ -1264,7 +1264,7 @@
 - [mkucej/i-librarian-free](https://github.com/mkucej/i-librarian-free) - I, Librarian - open-source version of  a PDF managing SaaS.
 - [misterunknown/ifm](https://github.com/misterunknown/ifm) - Improved File Manager
 - [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager) - Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK.
 - [hybridauth/hybridauth](https://github.com/hybridauth/hybridauth) - Open source social sign on PHP Library. HybridAuth goal is to act as an abstract api between your application and various social apis and identities providers such as Facebook, Twitter and Google.
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based
