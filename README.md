@@ -454,8 +454,8 @@
 - [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager) - Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager
 - [tematres/TemaTres-Vocabulary-Server](https://github.com/tematres/TemaTres-Vocabulary-Server) - Web application for management formal representations of knowledge, like controlled vocabularies, taxonomies, thesauri and glossaries
 - [matomo-org/plugin-LoginLdap](https://github.com/matomo-org/plugin-LoginLdap) - LDAP authentication and synchronization for Matomo.
-- [web-token/jwt-easy](https://github.com/web-token/jwt-easy) - [READ ONLY] JWT made easy
-- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JWT Framework
+- [web-token/jwt-easy](https://github.com/web-token/jwt-easy) - [READ ONLY] A simplified interface over JWT Framework.
+- [web-token/jwt-framework](https://github.com/web-token/jwt-framework) - JSON Web Tokens: JWS, JWE and JWK.
 - [gbv/publikationslisten-php](https://github.com/gbv/publikationslisten-php) - PHP-Bibliothek zur Erstellung von Publikationslisten aus GBV-Katalogen
 - [pimcore/pimcore](https://github.com/pimcore/pimcore) - Core Framework for the Open Core Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
 - [matomo-org/plugin-Migration](https://github.com/matomo-org/plugin-Migration) - Migrate a Matomo Measurable (website, app, roll-up, ...) from one Matomo instance to another Matomo
