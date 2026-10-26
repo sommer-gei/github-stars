@@ -635,7 +635,7 @@
 - [magic-akari/seamless-scroll-polyfill](https://github.com/magic-akari/seamless-scroll-polyfill) - Scroll Behavior polyfill
 - [portive/wysimark](https://github.com/portive/wysimark) - The Wysiwyg Editor for Markdown: 100% CommonMark + GFM with Uploads and Image Resizing
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
-- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
+- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - Free, open source (MIT) SVG icon library: 1,383 icons (1,671 SVGs with solid variants) for React, React Native, Vue, Solid, Flutter, CSS, Figma and Framer.
 - [rhizomik/rhizomerEye](https://github.com/rhizomik/rhizomerEye) - Client part of the new version of the Rhizomer faceted browser and visualization tool for semantic linked data.
 - [YizYah/neo-forgery](https://github.com/YizYah/neo-forgery) - 
 - [jqlang/playground](https://github.com/jqlang/playground) - A jq playground built with Next.js
