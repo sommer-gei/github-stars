@@ -11,7 +11,6 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
-- [Fluent](#fluent)
 - [Gherkin](#gherkin)
 - [Go](#go)
 - [HTML](#html)
@@ -94,10 +93,6 @@
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [tylerchilds/cutestrap](https://github.com/tylerchilds/cutestrap) - A strong, independent CSS Framework. Only 2.7KB minified & gzipped.
 - [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
-
-## Fluent 
-
-- [pkp/omp](https://github.com/pkp/omp) - Open Monograph Press is open source software to manage scholarly presses.
 
 ## Gherkin 
 
@@ -282,6 +277,7 @@
 - [hbz/lobid](https://github.com/hbz/lobid) - Linking Open Bibliographic Data
 - [fabiospampinato/cash](https://github.com/fabiospampinato/cash) - An absurdly small jQuery alternative for modern browsers.
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
+- [pkp/omp](https://github.com/pkp/omp) - Open Monograph Press is open source software to manage scholarly presses.
 - [Sytten/PrettyXML](https://github.com/Sytten/PrettyXML) - Powerful XML viewer for Firefox
 - [phpservermon/phpservermon](https://github.com/phpservermon/phpservermon) - PHP Server Monitor
 - [zgrossbart/jdd](https://github.com/zgrossbart/jdd) - A semantic JSON compare tool
