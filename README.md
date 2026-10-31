@@ -385,6 +385,7 @@
 
 ## PHP 
 
+- [todeveni/php-repo-matrix](https://github.com/todeveni/php-repo-matrix) - HTML matrix of PHP versions for ppa:ondrej/php and deb.sury.org/php
 - [chillerlan/php-qrcode](https://github.com/chillerlan/php-qrcode) - A PHP QR Code generator and reader with a user-friendly API.
 - [darylldoyle/svg-sanitizer](https://github.com/darylldoyle/svg-sanitizer) - A PHP SVG/XML Sanitizer
 - [sweetrdf/easyrdf](https://github.com/sweetrdf/easyrdf) - Maintained EasyRdf fork: a PHP library designed to make it easy to consume and produce RDF.
