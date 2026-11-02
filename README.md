@@ -18,7 +18,6 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Less](#less)
 - [M4](#m4)
@@ -314,10 +313,6 @@
 - [Mottie/Keyboard](https://github.com/Mottie/Keyboard) - Virtual Keyboard using jQuery ~
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
 
-## Jinja 
-
-- [davegallant/homelab](https://github.com/davegallant/homelab) - configuration for self-hosted services
-
 ## Jupyter Notebook 
 
 - [rominicky/miscellaneous](https://github.com/rominicky/miscellaneous) - Repositorio para alojar diferentes proyectos
@@ -538,6 +533,7 @@
 - [notofonts/notofonts.github.io](https://github.com/notofonts/notofonts.github.io) - Distribution site for Noto fonts
 - [unicode-org/last-resort-font](https://github.com/unicode-org/last-resort-font) - Last Resort Font
 - [inveniosoftware/invenio-vocabularies](https://github.com/inveniosoftware/invenio-vocabularies) - Invenio module for managing vocabularies.
+- [davegallant/homelab](https://github.com/davegallant/homelab) - configuration for self-hosted services
 - [ArchiveTeam/terroroftinytown](https://github.com/ArchiveTeam/terroroftinytown) - URLTeam's second generation of URL shortener archiving tools
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [openownership/data-standard](https://github.com/openownership/data-standard) - The Beneficial Ownership Data Standard (BODS) is an open standard providing a specification for modelling and publishing information on the beneficial ownership and control of corporate vehicles
