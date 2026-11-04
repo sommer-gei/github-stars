@@ -380,6 +380,8 @@
 
 ## PHP 
 
+- [PHLAK/SemVer](https://github.com/PHLAK/SemVer) - Semantic versioning helper library for PHP.
+- [amphp/http-client](https://github.com/amphp/http-client) - An advanced async HTTP client library for PHP, enabling efficient, non-blocking, and concurrent requests and responses.
 - [todeveni/php-repo-matrix](https://github.com/todeveni/php-repo-matrix) - HTML matrix of PHP versions for ppa:ondrej/php and deb.sury.org/php
 - [chillerlan/php-qrcode](https://github.com/chillerlan/php-qrcode) - A PHP QR Code generator and reader with a user-friendly API.
 - [darylldoyle/svg-sanitizer](https://github.com/darylldoyle/svg-sanitizer) - A PHP SVG/XML Sanitizer
