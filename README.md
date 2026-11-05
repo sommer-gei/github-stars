@@ -380,6 +380,7 @@
 
 ## PHP 
 
+- [codigyde/Matomo-PHP-API](https://github.com/codigyde/Matomo-PHP-API) - PHP wrapper for the Matomo API.
 - [PHLAK/SemVer](https://github.com/PHLAK/SemVer) - Semantic versioning helper library for PHP.
 - [amphp/http-client](https://github.com/amphp/http-client) - An advanced async HTTP client library for PHP, enabling efficient, non-blocking, and concurrent requests and responses.
 - [todeveni/php-repo-matrix](https://github.com/todeveni/php-repo-matrix) - HTML matrix of PHP versions for ppa:ondrej/php and deb.sury.org/php
