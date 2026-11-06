@@ -1235,6 +1235,7 @@
 
 ## php 
 
+- [codigyde/Matomo-PHP-API](https://github.com/codigyde/Matomo-PHP-API) - PHP wrapper for the Matomo API.
 - [PHLAK/SemVer](https://github.com/PHLAK/SemVer) - Semantic versioning helper library for PHP.
 - [amphp/http-client](https://github.com/amphp/http-client) - An advanced async HTTP client library for PHP, enabling efficient, non-blocking, and concurrent requests and responses.
 - [chillerlan/php-qrcode](https://github.com/chillerlan/php-qrcode) - A PHP QR Code generator and reader with a user-friendly API.
