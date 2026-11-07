@@ -622,6 +622,7 @@
 
 ## TypeScript 
 
+- [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [DSpace/dspace-angular](https://github.com/DSpace/dspace-angular) - DSpace User Interface built on Angular
 - [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A powerful tool for viewing, filtering, and transforming tabular data files (CSV, JSON, XLSX etc.) with JavaScript.
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
