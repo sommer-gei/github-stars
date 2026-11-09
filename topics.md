@@ -85,6 +85,7 @@
 - [jquery](#jquery)
 - [js](#js)
 - [json](#json)
+- [knowledge-graph](#knowledge-graph)
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [laravel](#laravel)
@@ -800,6 +801,11 @@
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
 - [LibreCat/Catmandu](https://github.com/LibreCat/Catmandu) - Catmandu - a data processing toolkit
+
+## knowledge-graph 
+
+- [sparna-git/Sparnatural](https://github.com/sparna-git/Sparnatural) - Sparnatural : visual knowledge graph explorer with SPARQL, in the browser, configurable with SHACL
+- [SemanticMediaWiki/SemanticMediaWiki](https://github.com/SemanticMediaWiki/SemanticMediaWiki) - 🔗 Semantic MediaWiki turns MediaWiki into a knowledge management platform with query and export capabilities
 
 ## kubernetes 
 
