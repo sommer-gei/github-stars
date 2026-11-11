@@ -462,6 +462,7 @@
 
 ## django 
 
+- [nezanuha/markdown-text-editor](https://github.com/nezanuha/markdown-text-editor) - A markdown editor that enhances your textarea instead of replacing it, so form submission, validation and required fields keep working.
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [mozilla/pontoon](https://github.com/mozilla/pontoon) - Mozilla's Localization Platform
 - [CenterForOpenScience/osf.io](https://github.com/CenterForOpenScience/osf.io) - Facilitating Open Science
@@ -724,6 +725,7 @@
 
 ## javascript 
 
+- [nezanuha/markdown-text-editor](https://github.com/nezanuha/markdown-text-editor) - A markdown editor that enhances your textarea instead of replacing it, so form submission, validation and required fields keep working.
 - [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A powerful tool for viewing, filtering, and transforming tabular data files (CSV, JSON, XLSX etc.) with JavaScript.
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [mdaines/viz-js](https://github.com/mdaines/viz-js) - Graphviz in your browser
@@ -819,6 +821,7 @@
 
 ## laravel 
 
+- [nezanuha/markdown-text-editor](https://github.com/nezanuha/markdown-text-editor) - A markdown editor that enhances your textarea instead of replacing it, so form submission, validation and required fields keep working.
 - [CodeWithDennis/larament](https://github.com/CodeWithDennis/larament) - A bloat-free starter kit for Laravel 13.x with FilamentPHP 5.x pre-configured. Only essential development tools included.
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
@@ -873,6 +876,7 @@
 
 ## markdown 
 
+- [nezanuha/markdown-text-editor](https://github.com/nezanuha/markdown-text-editor) - A markdown editor that enhances your textarea instead of replacing it, so form submission, validation and required fields keep working.
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
 - [danpros/htmly](https://github.com/danpros/htmly) - Simple and fast databaseless PHP blogging platform, and Flat-File CMS
@@ -961,6 +965,7 @@
 
 ## open-source 
 
+- [nezanuha/markdown-text-editor](https://github.com/nezanuha/markdown-text-editor) - A markdown editor that enhances your textarea instead of replacing it, so form submission, validation and required fields keep working.
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - Free, open source (MIT) SVG icon library: 1,383 icons (1,671 SVGs with solid variants) for React, React Native, Vue, Solid, Flutter, CSS, Figma and Framer.
 - [DSpace/DSpace](https://github.com/DSpace/DSpace) - (Official) The DSpace digital asset management system that powers your Institutional Repository
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
@@ -1382,6 +1387,7 @@
 
 ## rails 
 
+- [nezanuha/markdown-text-editor](https://github.com/nezanuha/markdown-text-editor) - A markdown editor that enhances your textarea instead of replacing it, so form submission, validation and required fields keep working.
 - [openSUSE/osem](https://github.com/openSUSE/osem) - Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences.
 
 ## react 
@@ -1535,6 +1541,7 @@
 
 ## typescript 
 
+- [nezanuha/markdown-text-editor](https://github.com/nezanuha/markdown-text-editor) - A markdown editor that enhances your textarea instead of replacing it, so form submission, validation and required fields keep working.
 - [DSpace/dspace-angular](https://github.com/DSpace/dspace-angular) - DSpace User Interface built on Angular
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [orchidjs/tom-select](https://github.com/orchidjs/tom-select) - Tom Select is a lightweight (~16kb gzipped) hybrid of a textbox and select box. Forked from selectize.js to provide a framework agnostic autocomplete widget with native-feeling keyboard navigation. Us
