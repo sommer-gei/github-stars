@@ -183,6 +183,7 @@
 
 ## JavaScript 
 
+- [nezanuha/markdown-text-editor](https://github.com/nezanuha/markdown-text-editor) - A markdown editor that enhances your textarea instead of replacing it, so form submission, validation and required fields keep working.
 - [zachleat/glyphhanger](https://github.com/zachleat/glyphhanger) - Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.
 - [hlorenzi/font-js](https://github.com/hlorenzi/font-js) - 🔠 Visually inspect .otf/.ttf/.otc/.ttc glyphs online, and extract glyph images and metadata through the command line! -- https://hlorenzi.github.io/font-js/
 - [hugeinc/styleguide](https://github.com/hugeinc/styleguide) - A tool to make creating and maintaining style guides easy.
@@ -622,6 +623,7 @@
 
 ## TypeScript 
 
+- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [DSpace/dspace-angular](https://github.com/DSpace/dspace-angular) - DSpace User Interface built on Angular
 - [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A powerful tool for viewing, filtering, and transforming tabular data files (CSV, JSON, XLSX etc.) with JavaScript.
