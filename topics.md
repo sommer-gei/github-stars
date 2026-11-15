@@ -370,7 +370,7 @@
 - [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming pattern
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [neverpanic/google-font-download](https://github.com/neverpanic/google-font-download) - Locally host Google's web fonts
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Communists).
@@ -1393,7 +1393,7 @@
 ## react 
 
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - Free, open source (MIT) SVG icon library: 1,383 icons (1,671 SVGs with solid variants) for React, React Native, Vue, Solid, Flutter, CSS, Figma and Framer.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [kiprotect/klaro](https://github.com/kiprotect/klaro) - Klaro Privacy Manager. An open-source, privacy-friendly & compliant consent manager for your website.
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺
@@ -1507,7 +1507,7 @@
 
 ## svelte 
 
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 
 ## symfony 
 
