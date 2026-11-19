@@ -144,6 +144,7 @@
 - [spring-boot](#spring-boot)
 - [sql](#sql)
 - [sqlite](#sqlite)
+- [static-site-generator](#static-site-generator)
 - [statistics](#statistics)
 - [svelte](#svelte)
 - [symfony](#symfony)
@@ -996,7 +997,7 @@
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [mdevils/css-selector-parser](https://github.com/mdevils/css-selector-parser) - Just a CSS selector parser.
 - [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
-- [davegallant/homelab](https://github.com/davegallant/homelab) - configuration for self-hosted services
+- [davegallant/homelab](https://github.com/davegallant/homelab) - configuration for a number of self-hosted services
 - [ArchiveTeam/terroroftinytown](https://github.com/ArchiveTeam/terroroftinytown) - URLTeam's second generation of URL shortener archiving tools
 - [gbv/beaconspec](https://github.com/gbv/beaconspec) - BEACON link dump format specification
 - [sweetrdf/easyrdf](https://github.com/sweetrdf/easyrdf) - Maintained EasyRdf fork: a PHP library designed to make it easy to consume and produce RDF.
@@ -1505,6 +1506,10 @@
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
+
+## static-site-generator 
+
+- [CouscousPHP/Couscous](https://github.com/CouscousPHP/Couscous) - Couscous is good.
 
 ## statistics 
 
