@@ -184,7 +184,6 @@
 - [hugeinc/styleguide](https://github.com/hugeinc/styleguide) - A tool to make creating and maintaining style guides easy.
 - [rottingresearch/style-guide](https://github.com/rottingresearch/style-guide) - Official Style Guide for Rotting Research
 - [mdaines/viz-js](https://github.com/mdaines/viz-js) - Graphviz in your browser
-- [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
 - [niklasl/ldtr](https://github.com/niklasl/ldtr) - Linked Data Transcriber
 - [funbox/beatrix](https://github.com/funbox/beatrix) - A tool to chop off useless fonts glyphs and convert TTF/OTF into WOFF & WOFF2
 - [skohub-io/skohub-vocabs](https://github.com/skohub-io/skohub-vocabs) - A lightweight tool to publish SKOS Vocabularies
@@ -376,9 +375,9 @@
 
 ## PHP 
 
+- [guzzle/guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
 - [codigyde/Matomo-PHP-API](https://github.com/codigyde/Matomo-PHP-API) - PHP wrapper for the Matomo API.
 - [PHLAK/SemVer](https://github.com/PHLAK/SemVer) - Semantic versioning helper library for PHP.
-- [amphp/http-client](https://github.com/amphp/http-client) - An advanced async HTTP client library for PHP, enabling efficient, non-blocking, and concurrent requests and responses.
 - [todeveni/php-repo-matrix](https://github.com/todeveni/php-repo-matrix) - HTML matrix of PHP versions for ppa:ondrej/php and deb.sury.org/php
 - [chillerlan/php-qrcode](https://github.com/chillerlan/php-qrcode) - A PHP QR Code generator and reader with a user-friendly API.
 - [darylldoyle/svg-sanitizer](https://github.com/darylldoyle/svg-sanitizer) - A PHP SVG/XML Sanitizer
@@ -625,6 +624,7 @@
 - [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A powerful tool for viewing, filtering, and transforming tabular data files (CSV, JSON, XLSX etc.) with JavaScript.
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
+- [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
 - [LeaVerou/parsel](https://github.com/LeaVerou/parsel) - A tiny, permissive CSS selector parser
 - [mdevils/css-selector-parser](https://github.com/mdevils/css-selector-parser) - Just a CSS selector parser.
 - [magic-akari/seamless-scroll-polyfill](https://github.com/magic-akari/seamless-scroll-polyfill) - Scroll Behavior polyfill
